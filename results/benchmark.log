@@ -1,0 +1,58 @@
+50/1650 paired cases; 350 runs; 1.2s
+100/1650 paired cases; 700 runs; 2.2s
+150/1650 paired cases; 1050 runs; 3.1s
+200/1650 paired cases; 1400 runs; 4.4s
+250/1650 paired cases; 1750 runs; 5.8s
+300/1650 paired cases; 2100 runs; 6.9s
+350/1650 paired cases; 2450 runs; 7.8s
+400/1650 paired cases; 2800 runs; 9.1s
+450/1650 paired cases; 3150 runs; 10.2s
+500/1650 paired cases; 3500 runs; 12.3s
+550/1650 paired cases; 3850 runs; 15.5s
+600/1650 paired cases; 4200 runs; 18.1s
+650/1650 paired cases; 4550 runs; 19.1s
+700/1650 paired cases; 4900 runs; 20.6s
+750/1650 paired cases; 5250 runs; 22.0s
+800/1650 paired cases; 5600 runs; 23.2s
+850/1650 paired cases; 5950 runs; 25.1s
+900/1650 paired cases; 6300 runs; 26.8s
+950/1650 paired cases; 6650 runs; 28.4s
+1000/1650 paired cases; 7000 runs; 31.3s
+1050/1650 paired cases; 7350 runs; 32.4s
+1100/1650 paired cases; 7700 runs; 33.9s
+1150/1650 paired cases; 8050 runs; 35.5s
+1200/1650 paired cases; 8400 runs; 38.4s
+1250/1650 paired cases; 8750 runs; 40.0s
+1300/1650 paired cases; 9100 runs; 44.4s
+1350/1650 paired cases; 9450 runs; 48.1s
+1400/1650 paired cases; 9800 runs; 52.0s
+1450/1650 paired cases; 10150 runs; 55.9s
+1500/1650 paired cases; 10500 runs; 58.9s
+1550/1650 paired cases; 10850 runs; 62.3s
+1600/1650 paired cases; 11200 runs; 66.9s
+1650/1650 paired cases; 11550 runs; 70.5s
+{
+  "replicates": 30,
+  "sensitivity_replicates": 15,
+  "runs": 11550,
+  "elapsed_seconds": 70.55878686904907,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "primary_config": {
+    "latency_ms": 0.01,
+    "bandwidth_mib_s": 100.0,
+    "task_bytes": 4096,
+    "result_bytes": 64,
+    "control_bytes": 32,
+    "split": 0.5,
+    "batch_cap": 0,
+    "shared_nic": false,
+    "master_service_ms": 0.0,
+    "retry_ms": 1.0
+  },
+  "task_count": 2400,
+  "unit": "milliseconds",
+  "seed_scheme": "workload seed 0..R-1; scheduler seed workload seed + 70001",
+  "hardware_scope": "discrete-event simulation, not hardware timing"
+}

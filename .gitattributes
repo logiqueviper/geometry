@@ -1,0 +1,6 @@
+# Preserve original artifact bytes and checksums across platforms.
+paper/IEEEtran.cls -text
+results/*.csv -text
+*.pdf binary
+*.png binary
+*.zip binary

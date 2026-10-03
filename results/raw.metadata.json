@@ -1,0 +1,25 @@
+{
+  "replicates": 30,
+  "sensitivity_replicates": 15,
+  "runs": 11550,
+  "elapsed_seconds": 70.55878686904907,
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "primary_config": {
+    "latency_ms": 0.01,
+    "bandwidth_mib_s": 100.0,
+    "task_bytes": 4096,
+    "result_bytes": 64,
+    "control_bytes": 32,
+    "split": 0.5,
+    "batch_cap": 0,
+    "shared_nic": false,
+    "master_service_ms": 0.0,
+    "retry_ms": 1.0
+  },
+  "task_count": 2400,
+  "unit": "milliseconds",
+  "seed_scheme": "workload seed 0..R-1; scheduler seed workload seed + 70001",
+  "hardware_scope": "discrete-event simulation, not hardware timing"
+}

@@ -1,0 +1,243 @@
+{
+  "files": [
+    {
+      "path": "README.md",
+      "bytes": 6859,
+      "sha256": "1e70c4fc28f27b5511da26b1db843dd32939d56bbd1cb92504e6b53292ded865"
+    },
+    {
+      "path": "paper/CLASS_PROVENANCE.md",
+      "bytes": 821,
+      "sha256": "174614bc0af3a906cd55453c0e88f52d36751fa2c0644835229482d9dfd68106"
+    },
+    {
+      "path": "paper/IEEEtran.cls",
+      "bytes": 282417,
+      "sha256": "aea20243d29b1b5940b1a071180d8a1d44fdba4d852305237f562d1dfe00ceac"
+    },
+    {
+      "path": "paper/effects_table.tex",
+      "bytes": 380,
+      "sha256": "7dba976bde9a088acb892cd779a224ca91e194cccafabfad4baf07645da9d9a1"
+    },
+    {
+      "path": "paper/figures/bottlenecks.pdf",
+      "bytes": 13202,
+      "sha256": "a16d8ca6aa01b510f0ff479dee1137acc00df8e8374a02498016215a30d0d17d"
+    },
+    {
+      "path": "paper/figures/bottlenecks.png",
+      "bytes": 77758,
+      "sha256": "3b1ee5f79453d195e092dc0fdfef11bc95b5001ff8e0f8bbbe85f0be682bfdd7"
+    },
+    {
+      "path": "paper/figures/latency.pdf",
+      "bytes": 18988,
+      "sha256": "497df4f0976b1815aea72a26243238940fa633fb94c2eb911291c258f11f87a7"
+    },
+    {
+      "path": "paper/figures/latency.png",
+      "bytes": 129443,
+      "sha256": "30f43817855514beb15a5095e86ca5602167f204a7622df5d2ca996d9b6fbc50"
+    },
+    {
+      "path": "paper/figures/makespans.pdf",
+      "bytes": 25134,
+      "sha256": "802382959c7b3f78b0811fe12cee27677a0f99e1f5d0644b6af2f1c5e8704a58"
+    },
+    {
+      "path": "paper/figures/makespans.png",
+      "bytes": 167298,
+      "sha256": "beb0dd909375158a8797ade621bbecd1d7e9301f92d5f40d78d8b407186b87d3"
+    },
+    {
+      "path": "paper/figures/paired_effects.pdf",
+      "bytes": 14728,
+      "sha256": "3a1186c98f20990b589766968fc2f5c8500a5d04e6d56c8566386b004ade0f54"
+    },
+    {
+      "path": "paper/figures/paired_effects.png",
+      "bytes": 150280,
+      "sha256": "b530d73cb1eb414ee3800b0ff42818ba190e8689ff3019447a76823ae82cc200"
+    },
+    {
+      "path": "paper/figures/solids.pdf",
+      "bytes": 23453,
+      "sha256": "003a01500a666d60c6ff3ec246dc5b9fdabbc31534fae21a195d8d9bf449d73f"
+    },
+    {
+      "path": "paper/figures/solids.png",
+      "bytes": 180332,
+      "sha256": "cf0814be49ec21d5cf04c99ada4c825d90fe9052b72cc6047fc9188dfc54340e"
+    },
+    {
+      "path": "paper/figures/timeline.pdf",
+      "bytes": 22201,
+      "sha256": "dbd38104d0ec0814257f0084928e4111c28591d29403ee0cadff64f879883e84"
+    },
+    {
+      "path": "paper/figures/timeline.png",
+      "bytes": 68466,
+      "sha256": "8c497e62a14eb41726ec05db72f71f559a6a2e8f100270f4fae21b5cb44a8c51"
+    },
+    {
+      "path": "paper/figures/topologies.pdf",
+      "bytes": 15578,
+      "sha256": "6e9b21f3a6755205d0267d17f965a18847179e4392b15f4bfcd89fccc98a52ed"
+    },
+    {
+      "path": "paper/figures/topologies.png",
+      "bytes": 87987,
+      "sha256": "7205a9d91aaa3d693758cc2e3e74b78f982b83864257c932fd93158af485dc8a"
+    },
+    {
+      "path": "paper/figures/traffic.pdf",
+      "bytes": 13979,
+      "sha256": "447aa2284e7cbf949c24853728310c9541b6cf507e60c1e6a67f31b21b4df1df"
+    },
+    {
+      "path": "paper/figures/traffic.png",
+      "bytes": 82233,
+      "sha256": "ce80493d65e3f6a0f7974dcd11f3bbe9053c4197c7dc8608c75d218be42c7e38"
+    },
+    {
+      "path": "paper/paper.pdf",
+      "bytes": 268614,
+      "sha256": "3621212b010589718635e2a1e17dcbf0f88e57daa6c0ac253ab220ab53a2b64d"
+    },
+    {
+      "path": "paper/paper.tex",
+      "bytes": 33210,
+      "sha256": "03f59b9af7f13427a57584c44ebe2745fcc332542253a2f4a92d9ba5aadf1157"
+    },
+    {
+      "path": "paper/results_table.tex",
+      "bytes": 2739,
+      "sha256": "635a07e49769aa1cf4d7b5bce419ac2608bee9d1917cb2a93ae5d454512b70ab"
+    },
+    {
+      "path": "requirements-study.txt",
+      "bytes": 60,
+      "sha256": "f721f3eddd6b3178c470680f3c51185ba78b461fa9ece19571cc481f7b1d1c7f"
+    },
+    {
+      "path": "results/analysis.log",
+      "bytes": 157,
+      "sha256": "05a422dba32dbe86c94e48b518028e5172fc5f015f81a32875c46387d5de9d73"
+    },
+    {
+      "path": "results/benchmark.log",
+      "bytes": 1968,
+      "sha256": "0d6c1f6b2e691e990b254631a2fde4cc07f4dd0164ceea1eab4810bf5cafdca3"
+    },
+    {
+      "path": "results/findings.json",
+      "bytes": 71095,
+      "sha256": "1038659194b10345b01b37f37f84981525527813331676a522fb212268aa571a"
+    },
+    {
+      "path": "results/latex-build.log",
+      "bytes": 11246,
+      "sha256": "cc23545228ac552581a360eb48f5a89ee3f5a38764875201e1875fbde362ac26"
+    },
+    {
+      "path": "results/paired_effects.csv",
+      "bytes": 4029,
+      "sha256": "fac8ad45193d0958bf02bb7db883c28f9fbc164d0b78eddbea721e79892f8ad6"
+    },
+    {
+      "path": "results/raw.csv",
+      "bytes": 2447518,
+      "sha256": "f7091594e6761b08fbb95bef756c339db688a7b66311a8a0a838058adc4757ed"
+    },
+    {
+      "path": "results/raw.metadata.json",
+      "bytes": 640,
+      "sha256": "29c8f34560c167f8d76491124e602e2eca20cee927c99ca9cb2e5aaf10446c13"
+    },
+    {
+      "path": "results/summary.csv",
+      "bytes": 128238,
+      "sha256": "97a2b1749482758b523cfc6395a7891ec7c5fc350c34d9a11c7692999f994261"
+    },
+    {
+      "path": "results/topology.csv",
+      "bytes": 917591,
+      "sha256": "16e5d0e6568b4e691a174d04672939e5fc81de1befb9c4ff6edb4763fddd158e"
+    },
+    {
+      "path": "results/topology.log",
+      "bytes": 353,
+      "sha256": "316e6f0e039db5c2763e01584d69bc2bbabbaaa9958752c25b7329c780be9696"
+    },
+    {
+      "path": "results/topology_summary.csv",
+      "bytes": 23186,
+      "sha256": "6a2ded6d9b2a0a4758014c9f5204b6945612b38650914a0ed3391edf203e9b33"
+    },
+    {
+      "path": "results/verification.json",
+      "bytes": 174,
+      "sha256": "232c027105d8997564beffb0b970dbc46f68d817fae7e31d4c1382e6ce24d90d"
+    },
+    {
+      "path": "setup-study.sh",
+      "bytes": 676,
+      "sha256": "f1cd71a16ecf5db795774c8300e5dec8d2b0ed5b9604c101636422ca4197879b"
+    },
+    {
+      "path": "study/__init__.py",
+      "bytes": 52,
+      "sha256": "f3c032fd0f3e200e1063cb15a39d5174c90360a084f80eb179973a1280baa1c1"
+    },
+    {
+      "path": "study/analyze.py",
+      "bytes": 13440,
+      "sha256": "20dcce8d98e6a5f724c8e5260d0683fff63320f4f9ef87e58feaf4471229eaa7"
+    },
+    {
+      "path": "study/benchmark.py",
+      "bytes": 3912,
+      "sha256": "da9c5292ad72c3bd8dc9c83d74f3c07d7bda2d1b69f87e24eddb05e625db6f1b"
+    },
+    {
+      "path": "study/build_paper.py",
+      "bytes": 636,
+      "sha256": "8e068b7ba0e5f7f3ee538a60124df3988df8745e8b8f1b2f0e47e6e4e247ad82"
+    },
+    {
+      "path": "study/geometry.py",
+      "bytes": 4109,
+      "sha256": "c023d9d7e02aba6d0cf998eaae5f8cbd7c3e677ca786c75c7c5d4c6757c6a4e0"
+    },
+    {
+      "path": "study/package.py",
+      "bytes": 1721,
+      "sha256": "3b08b5f7cae5c6cc1396aa93fae7c2e9904129deffc0e5ddd170ceee434c4269"
+    },
+    {
+      "path": "study/simulator.py",
+      "bytes": 13981,
+      "sha256": "2df5e9b127fecb46eb27921d705ad92dd5931b99cf3cefed895bdc793cd2ca70"
+    },
+    {
+      "path": "study/test_simulator.py",
+      "bytes": 3812,
+      "sha256": "af6bbd99bb00ad8188696d197bab48c1313c7c9428073210e37e662409f71e95"
+    },
+    {
+      "path": "study/topology_benchmark.py",
+      "bytes": 1508,
+      "sha256": "ffbee0f33ab8c90827b96f7eeac6c3e78e72f73e407db47d54f02f4e10b0bede"
+    },
+    {
+      "path": "study/verify_results.py",
+      "bytes": 3097,
+      "sha256": "0a406ee593f7df22cd62ad265df3f16cabe26bbe922c3aa5f03c0a86e5be5a2f"
+    }
+  ],
+  "experiment_runs": 16050,
+  "validation_tests": 116,
+  "replayed_cases": 141,
+  "timing_scope": "discrete-event simulated milliseconds; not hardware performance"
+}

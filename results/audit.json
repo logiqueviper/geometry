@@ -1,0 +1,12 @@
+{
+  "baseline_commit": "9ea4fb844c89648717e8cc190a9e5b2887e649a6",
+  "tests_passed": 116,
+  "raw_run_count": 16050,
+  "replayed_cases": 141,
+  "existing_zip_integrity": "passed",
+  "evidence": "simulation",
+  "raw_sha256": {
+    "raw.csv": "f7091594e6761b08fbb95bef756c339db688a7b66311a8a0a838058adc4757ed",
+    "topology.csv": "16e5d0e6568b4e691a174d04672939e5fc81de1befb9c4ff6edb4763fddd158e"
+  }
+}

@@ -1,0 +1,210 @@
+[
+  {
+    "name": "solids",
+    "title": "Five solids. One master. Only edge-adjacent peers.",
+    "caption": "Concept diagram: a red central master connects to every blue worker; dark peer links follow solid edges. N is the worker count and d is peer degree. Geometry specifies adjacency; all modeled links have equal bandwidth and latency.",
+    "width_inches": 7.16,
+    "height_inches": 2.9,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "makespans",
+    "title": "Redistribution helps imbalance; dynamic policies often overlap.",
+    "caption": "Last-result makespan, 2400 tasks, five solids and seven policies; 30 paired seeds per cell. Markers are means; horizontal bars are uncorrected 95% percentile-bootstrap intervals. Each worker count has its own physical network.",
+    "width_inches": 7.16,
+    "height_inches": 6.4,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "paired_effects",
+    "title": "Large gains over static do not establish a push advantage.",
+    "caption": "Mean paired makespan ratios from 30 seeds per cell; values above one favor neighbor push. Left: static/push. Right: neighbor-steal/push. Exact 95% intervals appear in paired_effects.csv and the companion interval plot. No equivalence claim is made.",
+    "width_inches": 7.16,
+    "height_inches": 4.1,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "effect_intervals",
+    "title": "Show the effect and its uncertainty, including null results.",
+    "caption": "Mean paired ratios and uncorrected 95% bootstrap intervals, 30 seeds per solid. Dashed lines denote equal makespan. Lognormal is an independent-cost workload; clustered is a sorted-cost stress test. Interval overlap with one does not demonstrate equivalence.",
+    "width_inches": 7.16,
+    "height_inches": 5.8,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "latency",
+    "title": "Fixed latency changes the scheduler tradeoff.",
+    "caption": "Clustered workload, 2400 tasks, 100 MiB/s; identical 15-seed subsets at every point. Lines show means; shaded bands show uncorrected 95% bootstrap intervals. Markers and line styles distinguish six dynamic policies. This is a latency sweep, not a full latency-by-bandwidth grid.",
+    "width_inches": 7.16,
+    "height_inches": 4.0,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "bottlenecks",
+    "title": "Independent links and a shared NIC are different regimes.",
+    "caption": "Clustered workload; the same 15 seeds in all four conditions. Points are means; bars are uncorrected 95% bootstrap intervals. Shared NICs serialize endpoint traffic. Master service adds 10 microseconds per incoming physical-hop message; 'Both' includes both constraints.",
+    "width_inches": 7.16,
+    "height_inches": 4.2,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "traffic",
+    "title": "Local redistribution avoids extra master hops, not migration cost.",
+    "caption": "Clustered workload; 30 paired seeds. Means and uncorrected 95% bootstrap intervals. Master hops count initial transfers and all identified results. Migrations count transmissions, so the same ID can contribute repeatedly. Traffic includes control packets dispatched before the last-result stop.",
+    "width_inches": 7.16,
+    "height_inches": 4.3,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "topologies",
+    "title": "Compare peer topologies at the same worker count.",
+    "caption": "Neighbor push: mean paired Platonic/control makespan ratio, 30 joint graph/workload draws per cell. Below one favors Platonic connectivity. Only rewired controls preserve degree and peer-link count; the other rows have different link budgets. Color is clipped at +/-0.5 log2 units; labels give exact ratios.",
+    "width_inches": 7.16,
+    "height_inches": 4.2,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "seed_distributions",
+    "title": "Keep every seed visible, not just the average.",
+    "caption": "Clustered workload; six dynamic schedulers, 30 paired seeds each. Every dot is one instance's time/static-time ratio. Violin shapes show the observed distribution; bold segments mark the interquartile range and white dots the median. Static is the reference, not a plotted competitor.",
+    "width_inches": 7.16,
+    "height_inches": 4.5,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "rewiring_distribution",
+    "title": "Degree-matched rewiring gives a more demanding control.",
+    "caption": "Neighbor push, 30 joint graph/workload draws per cell. Dots are paired percentage improvements, 100*(1-T_Platonic/T_rewired); positive values favor Platonic. Diamonds and bars show means and uncorrected 95% bootstrap intervals. Tetrahedral and octahedral rewiring is topologically equivalent up to labels.",
+    "width_inches": 7.16,
+    "height_inches": 4.5,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "timeline",
+    "title": "Task IDs make redistribution visible and auditable.",
+    "caption": "Illustrative icosahedral run: 240 clustered tasks, workload seed 2; this is not part of the primary benchmark. Colors identify original equal-count chunks, not policies. Each segment is one nonpreemptive task; the dashed line marks the last result collected at the master. Both runs retain every ID exactly once.",
+    "width_inches": 7.16,
+    "height_inches": 5.8,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "graph_spectrum",
+    "title": "Graph structure supplies a testable model, not a speed guarantee.",
+    "caption": "Analytic graph calculations, not scheduler measurements. Left: algebraic connectivity lambda2 of the peer graph and graph plus master. Right: synchronous convex-diffusion steps sufficient for a 99% reduction of L2 deviation at the selected spectral parameter. Atomic idle-triggered scheduling is a different process.",
+    "width_inches": 7.16,
+    "height_inches": 4.1,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  },
+  {
+    "name": "protocol_sequence",
+    "title": "Explicit messages resolve competing offers to an idle worker.",
+    "caption": "Schematic of the implemented neighbor-push protocol, not a timed trace. Donors reserve queued IDs before offering; the receiver accepts one offer and rejects a competing offer. Accepted inputs travel over a peer edge; identified results return directly to the master. No hub-assisted hint policy is implemented here.",
+    "width_inches": 7.16,
+    "height_inches": 4.7,
+    "minimum_font_points": 8.2,
+    "text_outside_canvas": [],
+    "formats": [
+      "pdf",
+      "png",
+      "svg"
+    ],
+    "source": "results/visual_data.json",
+    "phase": "exploratory legacy data"
+  }
+]

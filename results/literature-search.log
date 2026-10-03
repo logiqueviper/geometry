@@ -1,0 +1,89 @@
+Resolved lead 1/46: candidate_match
+Resolved lead 2/46: candidate_match
+Resolved lead 6/46: candidate_match
+Resolved lead 7/46: needs_review
+Resolved lead 8/46: candidate_match
+Resolved lead 9/46: candidate_match
+Resolved lead 10/46: candidate_match
+Resolved lead 11/46: candidate_match
+Resolved lead 12/46: candidate_match
+Resolved lead 13/46: candidate_match
+Resolved lead 14/46: candidate_match
+Resolved lead 15/46: candidate_match
+Resolved lead 16/46: candidate_match
+Resolved lead 17/46: candidate_match
+Resolved lead 18/46: candidate_match
+Resolved lead 19/46: candidate_match
+Resolved lead 20/46: candidate_match
+Resolved lead 21/46: candidate_match
+Resolved lead 22/46: candidate_match
+Resolved lead 24/46: candidate_match
+Resolved lead 25/46: candidate_match
+Resolved lead 26/46: needs_review
+Resolved lead 27/46: candidate_match
+Resolved lead 28/46: needs_review
+Resolved lead 29/46: candidate_match
+Resolved lead 30/46: candidate_match
+Resolved lead 31/46: candidate_match
+Resolved lead 32/46: candidate_match
+Resolved lead 33/46: candidate_match
+Resolved lead 34/46: needs_review
+Resolved lead 35/46: needs_review
+Resolved lead 36/46: candidate_match
+Resolved lead 37/46: needs_review
+Resolved lead 38/46: candidate_match
+Resolved lead 39/46: needs_review
+Resolved lead 40/46: candidate_match
+Resolved lead 41/46: needs_review
+Resolved lead 42/46: candidate_match
+Resolved lead 43/46: needs_review
+Resolved lead 44/46: candidate_match
+Resolved lead 45/46: candidate_match
+Resolved lead 46/46: candidate_match
+candidate_match 1.0  |  Adaptive load sharing in homogeneous distributed systems  |  ['Adaptive load sharing in homogeneous distributed systems']  |  10.1109/tse.1986.6312961
+candidate_match 1.0  |  Scheduling multithreaded computations by work stealing  |  ['Scheduling multithreaded computations by work stealing']  |  10.1109/sfcs.1994.365680
+candidate_match 1.0  |  Dynamic load balancing for distributed memory multiprocessors  |  ['Dynamic load balancing for distributed memory multiprocessors']  |  10.1016/0743-7315(89)90021-x
+candidate_match 1.0  |  Load balancing and Poisson equation in a graph  |  ['Load balancing and Poisson equation in a graph']  |  10.1002/cpe.4330020403
+candidate_match 1.0  |  Dynamic load balancing by random matchings  |  ['Dynamic Load Balancing by Random Matchings']  |  10.1006/jcss.1996.0075
+candidate_match 1.0  |  An improved diffusion algorithm for dynamic load balancing  |  ['An improved diffusion algorithm for dynamic load balancing']  |  10.1016/s0167-8191(99)00002-2
+needs_review 0.783  |  Load Balancing in Parallel Computers: Theory and Practice  |  ['Load Balancing in Parallel Computers']  |  10.1007/b102252
+candidate_match 1.0  |  Strategies for dynamic load balancing on highly parallel computers  |  ['Strategies for dynamic load balancing on highly parallel computers']  |  10.1109/71.243526
+candidate_match 0.971  |  How network topology affects dynamic load balancing  |  ['How network topology affects dynamic loading balancing']  |  10.1109/88.532137
+candidate_match 1.0  |  A simple load balancing scheme for task allocation in parallel machines  |  ['A simple load balancing scheme for task allocation in parallel machines']  |  10.1145/113379.113401
+candidate_match 1.0  |  Guided self-scheduling: A practical scheduling scheme for parallel supercomputers  |  ['Guided Self-Scheduling: A Practical Scheduling Scheme for Parallel Supercomputers']  |  10.1109/tc.1987.5009495
+candidate_match 1.0  |  Factoring: a method for scheduling parallel loops  |  ['Factoring: a method for scheduling parallel loops']  |  10.1145/135226.135232
+candidate_match 1.0  |  Trapezoid self-scheduling: a practical scheduling scheme for parallel compilers  |  ['Trapezoid self-scheduling: a practical scheduling scheme for parallel compilers']  |  10.1109/71.205655
+candidate_match 1.0  |  Scalable work stealing  |  ['Scalable work stealing']  |  10.1145/1654059.1654113
+candidate_match 1.0  |  Lifeline-based global load balancing  |  ['Lifeline-based global load balancing']  |  10.1145/2038037.1941582
+candidate_match 1.0  |  Non-blocking steal-half work queues  |  ['Non-blocking steal-half work queues']  |  10.1145/571825.571876
+candidate_match 1.0  |  The power of two choices in randomized load balancing  |  ['The power of two choices in randomized load balancing']  |  10.1109/71.963420
+candidate_match 1.0  |  UTS: An Unbalanced Tree Search Benchmark  |  ['UTS: An Unbalanced Tree Search Benchmark']  |  10.1007/978-3-540-72521-3_18
+candidate_match 1.0  |  A comparison of eleven static heuristics for mapping a class of independent tasks onto heterogeneous distributed computing systems  |  ['A Comparison of Eleven Static Heuristics for Mapping a Class of Independent Tasks onto Heterogeneous Distributed Computing Systems']  |  10.1006/jpdc.2000.1714
+candidate_match 1.0  |  Bounds on multiprocessing timing anomalies  |  ['Bounds on Multiprocessing Timing Anomalies']  |  10.1137/0117039
+candidate_match 1.0  |  Algebraic connectivity of graphs  |  ['Algebraic connectivity of graphs']  |  10.21136/cmj.1973.101168
+candidate_match 1.0  |  Spectral Graph Theory  |  ['Spectral graph theory']  |  10.1090/cbms/129/05
+needs_review 0.632  |  Principles and Practices of Interconnection Networks  |  ['Interconnection Networks']  |  10.1007/978-3-319-78473-1_2
+candidate_match 1.0  |  Introduction to Parallel Algorithms and Architectures  |  ['Introduction to Parallel Algorithms and Architectures']  |  10.1016/c2013-0-08299-0
+candidate_match 1.0  |  Regular Polytopes  |  ['Regular Polytopes']  |  10.1007/978-1-4471-0243-4_12
+needs_review 0.616  |  Scientific benchmarking of parallel computing systems: twelve ways to tell the masses when reporting performance results  |  ['Scientific benchmarking of parallel computing systems']  |  10.1145/2807591.2807644
+candidate_match 1.0  |  Rigorous benchmarking in reasonable time  |  ['Rigorous benchmarking in reasonable time']  |  10.1145/2491894.2464160
+needs_review 0.826  |  Statistical comparisons of classifiers over multiple data sets  |  ['Statistical comparisons of active learning strategies over multiple datasets']  |  10.1016/j.knosys.2018.01.033
+candidate_match 0.883  |  A simple sequentially rejective multiple test procedure  |  ['Modified Sequentially Rejective Multiple Test Procedures']  |  10.1080/01621459.1986.10478341
+candidate_match 1.0  |  Versatile, scalable, and accurate simulation of distributed applications and platforms  |  ['Versatile, scalable, and accurate simulation of distributed applications and platforms']  |  10.1016/j.jpdc.2014.06.008
+candidate_match 1.0  |  The ns-3 network simulator  |  ['The ns-3 Network Simulator']  |  10.1007/978-3-642-12331-3_2
+candidate_match 0.991  |  MapReduce: simplified data processing on large clusters  |  ['MapReduce: Simplified Data Processing on Large Cluster']  |  10.21276/ijre.2018.5.5.4
+candidate_match 0.938  |  Improving MapReduce performance in heterogeneous environments  |  ['MrHeter: improving MapReduce performance in heterogeneous environments']  |  10.1007/s10586-016-0625-2
+needs_review 0.81  |  Heterogeneity and dynamicity of clouds at scale: Google trace analysis  |  ['Heterogeneity and dynamicity of clouds at scale']  |  10.1145/2391229.2391236
+needs_review 0.659  |  Ray: a distributed framework for emerging AI applications  |  ['Distributed AI and its applications']  |  10.1007/3-540-55681-8_45
+candidate_match 1.0  |  The implementation of the Cilk-5 multithreaded language  |  ['The implementation of the Cilk-5 multithreaded language']  |  10.1145/277652.277725
+needs_review 0.595  |  Performance of a Simple 32 Core Raspberry Pi Cluster  |  ['Robust color image watermarking using multi-core Raspberry pi cluster']  |  10.1007/s11042-022-12037-5
+candidate_match 1.0  |  WRENCH: A Framework for Simulating Workflow Management Systems  |  ['WRENCH: A Framework for Simulating Workflow Management Systems']  |  10.1109/works.2018.00013
+needs_review 0.562  |  Sparrow: Distributed, Low Latency Scheduling  |  ['Distributed Low-Latency Data Aggregation Scheduling in Wireless Sensor Networks']  |  10.1145/2744198
+candidate_match 1.0  |  Large-scale cluster management at Google with Borg  |  ['Large-scale cluster management at Google with Borg']  |  10.1145/2741948.2741964
+needs_review 0.727  |  Firmament: Fast, Centralized Cluster Scheduling at Scale  |  ['Treator: a Fast Centralized Cluster Scheduling at Scale Based on B+ Tree and BSP']  |  10.1109/ispa-bdcloud-socialcom-sustaincom52081.2021.00053
+candidate_match 1.0  |  Learning Scheduling Algorithms for Data Processing Clusters  |  ['Learning scheduling algorithms for data processing clusters']  |  10.1145/3341302.3342080
+needs_review 0.486  |  Borg: the Next Generation  |  ['Ó, borg mín, borg']  |  10.33112/ritid.18.2.6
+candidate_match 1.0  |  Array programming with NumPy  |  ['Array programming with NumPy']  |  10.1038/s41586-020-2649-2
+candidate_match 1.0  |  SciPy 1.0: fundamental algorithms for scientific computing in Python  |  ['SciPy 1.0: fundamental algorithms for scientific computing in Python']  |  10.1038/s41592-019-0686-2
+candidate_match 1.0  |  Matplotlib: A 2D Graphics Environment  |  ['Matplotlib: A 2D Graphics Environment']  |  10.1109/mcse.2007.55
+Recent candidate records saved for manual relevance review; none automatically cited.

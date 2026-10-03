@@ -1,0 +1,12 @@
+/workspace/platonic-env/venv/bin/python -m study.analyze
+Analyzed 16050 runs; created 8 figure pairs and tables.
+Neighbor push has the lowest mean in 1/20 variable-cost cells (descriptive, not significance tests).
+/workspace/platonic-env/venv/bin/python -m analysis.make_all
+Saved 50 retrospective paired comparisons with Holm adjustment; none labeled preregistered.
+Created 13 PDF/PNG/SVG figure sets and an offline visual atlas.
+Built /workspace/geometry/visualizations/dashboard.html: 690418 bytes; no runtime network dependency.
+Saved 5216 manuscript values and raw source hashes.
+/workspace/platonic-env/venv/bin/python -m analysis.report_numbers
+Saved 5216 manuscript values and raw source hashes.
+/workspace/platonic-env/venv/bin/python -m study.build_paper
+Compiled /workspace/geometry/paper/paper.pdf (345335 bytes)

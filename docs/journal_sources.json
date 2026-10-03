@@ -1,0 +1,29 @@
+[
+  {
+    "url": "https://journals.ieeeauthorcenter.ieee.org/become-an-ieee-journal-author/publishing-ethics/guidelines-and-policies/submission-and-peer-review-policies/",
+    "retrieved_date": "2026-10-03",
+    "status": 200,
+    "bytes": 83719,
+    "sha256": "f14b4878db7c56c7f5312d919c958d5ec712656ef121c73b0c9f4ce9ddd520bd",
+    "content_verified": true,
+    "limitation": null
+  },
+  {
+    "url": "https://journals.ieeeauthorcenter.ieee.org/create-your-ieee-journal-article/prepare-supplementary-materials/",
+    "retrieved_date": "2026-10-03",
+    "status": 200,
+    "bytes": 77105,
+    "sha256": "41eb030a49a6c6dcccc27cabcf8c7ee076a1b717f176aa18cd8e6e38bbc460bc",
+    "content_verified": true,
+    "limitation": null
+  },
+  {
+    "url": "https://www.computer.org/csdl/journal/td/write-for-us/15064",
+    "retrieved_date": "2026-10-03",
+    "status": 200,
+    "bytes": 8211,
+    "sha256": "e1401e61fdcc58178f056f0cc7dea7d405cfa6659e83c38fe23ea90b0665338f",
+    "content_verified": false,
+    "limitation": "application shell only"
+  }
+]

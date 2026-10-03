@@ -199,7 +199,7 @@ def main():
         for s in SOLIDS:
             vals=[lookup["main",s,w,p]["mean_ms"] for p in POLICIES]
             best=min(vals)
-            cells=[r"\textbf{"+f"{v:.2f}"+"}" if v==best else f"{v:.2f}" for v in vals]
+            cells=[f"{v:.2f}" for v in vals]
             table.append(w.title()+" & "+SHORT[s]+" & "+" & ".join(cells)+r" \\")
         table.append(r"\midrule")
     table += [r"\bottomrule",r"\end{tabular}"]

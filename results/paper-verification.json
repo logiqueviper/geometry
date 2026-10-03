@@ -1,0 +1,13 @@
+{
+  "pages": 9,
+  "overfull_boxes": 0,
+  "undefined_reference_warnings": 0,
+  "remaining_notices": [
+    "underfull vertical boxes",
+    "float-only page"
+  ],
+  "figure_text_minimum_at_native_width_pt": 8.2,
+  "figure_width_inches": 7.16,
+  "text_clipping_diagnostics": 0,
+  "paper_sha256": "0210088d312166e0dd02faac7fd95206611c99d481855f6f1235c24249eaa8eb"
+}

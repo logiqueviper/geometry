@@ -1,0 +1,2689 @@
+{
+  "status": "bibliographic verification only; literature gate remains open",
+  "records": [
+    {
+      "doi": "10.1137/0117039",
+      "title": "Bounds on Multiprocessing Timing Anomalies",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "R. L.",
+          "family": "Graham"
+        }
+      ],
+      "year": 1969,
+      "publication_date_parts": [
+        1969,
+        3
+      ],
+      "venue": "SIAM Journal on Applied Mathematics",
+      "type": "journal-article",
+      "volume": "17",
+      "issue": "2",
+      "pages": "416-429",
+      "source_url": "https://api.crossref.org/works/10.1137/0117039",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref1",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.21136/cmj.1973.101168",
+      "title": "Algebraic connectivity of graphs",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Miroslav",
+          "family": "Fiedler"
+        }
+      ],
+      "year": 1973,
+      "publication_date_parts": [
+        1973
+      ],
+      "venue": "Czechoslovak Mathematical Journal",
+      "type": "journal-article",
+      "volume": "23",
+      "issue": "2",
+      "pages": "298-305",
+      "source_url": "https://api.crossref.org/works/10.21136/cmj.1973.101168",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref2",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/tse.1986.6312961",
+      "title": "Adaptive load sharing in homogeneous distributed systems",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Derek L.",
+          "family": "Eager"
+        },
+        {
+          "given": "Edward D.",
+          "family": "Lazowska"
+        },
+        {
+          "given": "John",
+          "family": "Zahorjan"
+        }
+      ],
+      "year": 1986,
+      "publication_date_parts": [
+        1986,
+        5
+      ],
+      "venue": "IEEE Transactions on Software Engineering",
+      "type": "journal-article",
+      "volume": "SE-12",
+      "issue": "5",
+      "pages": "662-675",
+      "source_url": "https://api.crossref.org/works/10.1109/tse.1986.6312961",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref3",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/tc.1987.5009495",
+      "title": "Guided Self-Scheduling: A Practical Scheduling Scheme for Parallel Supercomputers",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Constantine D.",
+          "family": "Polychronopoulos"
+        },
+        {
+          "given": "David J.",
+          "family": "Kuck"
+        }
+      ],
+      "year": 1987,
+      "publication_date_parts": [
+        1987,
+        12
+      ],
+      "venue": "IEEE Transactions on Computers",
+      "type": "journal-article",
+      "volume": "C-36",
+      "issue": "12",
+      "pages": "1425-1439",
+      "source_url": "https://api.crossref.org/works/10.1109/tc.1987.5009495",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref4",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/0743-7315(89)90021-x",
+      "title": "Dynamic load balancing for distributed memory multiprocessors",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "George",
+          "family": "Cybenko"
+        }
+      ],
+      "year": 1989,
+      "publication_date_parts": [
+        1989,
+        10
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "7",
+      "issue": "2",
+      "pages": "279-301",
+      "source_url": "https://api.crossref.org/works/10.1016/0743-7315(89)90021-x",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref5",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1002/cpe.4330020403",
+      "title": "Load balancing and Poisson equation in a graph",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "J. E.",
+          "family": "Boillat"
+        }
+      ],
+      "year": 1990,
+      "publication_date_parts": [
+        1990,
+        12
+      ],
+      "venue": "Concurrency: Practice and Experience",
+      "type": "journal-article",
+      "volume": "2",
+      "issue": "4",
+      "pages": "289-313",
+      "source_url": "https://api.crossref.org/works/10.1002/cpe.4330020403",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref6",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1145/113379.113401",
+      "title": "A simple load balancing scheme for task allocation in parallel machines",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Larry",
+          "family": "Rudolph"
+        },
+        {
+          "given": "Miriam",
+          "family": "Slivkin-Allalouf"
+        },
+        {
+          "given": "Eli",
+          "family": "Upfal"
+        }
+      ],
+      "year": 1991,
+      "publication_date_parts": [
+        1991
+      ],
+      "venue": "Proceedings of the third annual ACM symposium on Parallel algorithms and architectures  - SPAA '91",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "237-245",
+      "source_url": "https://api.crossref.org/works/10.1145/113379.113401",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref7",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/135226.135232",
+      "title": "Factoring: a method for scheduling parallel loops",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Susan Flynn",
+          "family": "Hummel"
+        },
+        {
+          "given": "Edith",
+          "family": "Schonberg"
+        },
+        {
+          "given": "Lawrence E.",
+          "family": "Flynn"
+        }
+      ],
+      "year": 1992,
+      "publication_date_parts": [
+        1992,
+        8
+      ],
+      "venue": "Communications of the ACM",
+      "type": "journal-article",
+      "volume": "35",
+      "issue": "8",
+      "pages": "90-101",
+      "source_url": "https://api.crossref.org/works/10.1145/135226.135232",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref8",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/71.205655",
+      "title": "Trapezoid self-scheduling: a practical scheduling scheme for parallel compilers",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "T.H.",
+          "family": "Tzen"
+        },
+        {
+          "given": "L.M.",
+          "family": "Ni"
+        }
+      ],
+      "year": 1993,
+      "publication_date_parts": [
+        1993
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "type": "journal-article",
+      "volume": "4",
+      "issue": "1",
+      "pages": "87-98",
+      "source_url": "https://api.crossref.org/works/10.1109/71.205655",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref9",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/71.243526",
+      "title": "Strategies for dynamic load balancing on highly parallel computers",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "M.H.",
+          "family": "Willebeek-LeMair"
+        },
+        {
+          "given": "A.P.",
+          "family": "Reeves"
+        }
+      ],
+      "year": 1993,
+      "publication_date_parts": [
+        1993
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "type": "journal-article",
+      "volume": "4",
+      "issue": "9",
+      "pages": "979-993",
+      "source_url": "https://api.crossref.org/works/10.1109/71.243526",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref10",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1006/jcss.1996.0075",
+      "title": "Dynamic Load Balancing by Random Matchings",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Bhaskar",
+          "family": "Ghosh"
+        },
+        {
+          "given": "S.",
+          "family": "Muthukrishnan"
+        }
+      ],
+      "year": 1996,
+      "publication_date_parts": [
+        1996,
+        12
+      ],
+      "venue": "Journal of Computer and System Sciences",
+      "type": "journal-article",
+      "volume": "53",
+      "issue": "3",
+      "pages": "357-370",
+      "source_url": "https://api.crossref.org/works/10.1006/jcss.1996.0075",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref11",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1090/cbms/092",
+      "title": "Spectral Graph Theory",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Fan",
+          "family": "Chung"
+        }
+      ],
+      "year": 1996,
+      "publication_date_parts": [
+        1996,
+        12,
+        3
+      ],
+      "venue": "CBMS Regional Conference Series in Mathematics",
+      "type": "monograph",
+      "volume": null,
+      "issue": null,
+      "pages": null,
+      "source_url": "https://api.crossref.org/works/10.1090/cbms/092",
+      "source_cache_sha256": "e5f15bd662cbc1d5128ec68c592fb8b93f746e7e7eee1176672c23462452fcbe",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "canonical replacement of a misleading title-only match",
+      "retrieval_date": "2026-10-03",
+      "key": "ref12",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/88.532137",
+      "title": "How network topology affects dynamic loading balancing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "P.K.K.",
+          "family": "Loh"
+        },
+        {
+          "family": "Wen Jing Hsu"
+        },
+        {
+          "family": "Cai Wentong"
+        },
+        {
+          "given": "N.",
+          "family": "Sriskanthan"
+        }
+      ],
+      "year": 1996,
+      "publication_date_parts": [
+        1996
+      ],
+      "venue": "IEEE Parallel &amp; Distributed Technology: Systems &amp; Applications",
+      "type": "journal-article",
+      "volume": "4",
+      "issue": "3",
+      "pages": "25-35",
+      "source_url": "https://api.crossref.org/works/10.1109/88.532137",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref13",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1145/277652.277725",
+      "title": "The implementation of the Cilk-5 multithreaded language",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Matteo",
+          "family": "Frigo"
+        },
+        {
+          "given": "Charles E.",
+          "family": "Leiserson"
+        },
+        {
+          "given": "Keith H.",
+          "family": "Randall"
+        }
+      ],
+      "year": 1998,
+      "publication_date_parts": [
+        1998,
+        5
+      ],
+      "venue": "ACM SIGPLAN Notices",
+      "type": "journal-article",
+      "volume": "33",
+      "issue": "5",
+      "pages": "212-223",
+      "source_url": "https://api.crossref.org/works/10.1145/277652.277725",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref14",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/s0167-8191(99)00002-2",
+      "title": "An improved diffusion algorithm for dynamic load balancing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Y.F.",
+          "family": "Hu"
+        },
+        {
+          "given": "R.J.",
+          "family": "Blake"
+        }
+      ],
+      "year": 1999,
+      "publication_date_parts": [
+        1999,
+        4
+      ],
+      "venue": "Parallel Computing",
+      "type": "journal-article",
+      "volume": "25",
+      "issue": "4",
+      "pages": "417-444",
+      "source_url": "https://api.crossref.org/works/10.1016/s0167-8191(99)00002-2",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref15",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1145/324133.324234",
+      "title": "Scheduling multithreaded computations by work stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Robert D.",
+          "family": "Blumofe"
+        },
+        {
+          "given": "Charles E.",
+          "family": "Leiserson"
+        }
+      ],
+      "year": 1999,
+      "publication_date_parts": [
+        1999,
+        9
+      ],
+      "venue": "Journal of the ACM",
+      "type": "journal-article",
+      "volume": "46",
+      "issue": "5",
+      "pages": "720-748",
+      "source_url": "https://api.crossref.org/works/10.1145/324133.324234",
+      "source_cache_sha256": "e5f15bd662cbc1d5128ec68c592fb8b93f746e7e7eee1176672c23462452fcbe",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "canonical replacement of a misleading title-only match",
+      "retrieval_date": "2026-10-03",
+      "key": "ref16",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1006/jpdc.2000.1714",
+      "title": "A Comparison of Eleven Static Heuristics for Mapping a Class of Independent Tasks onto Heterogeneous Distributed Computing Systems",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Tracy D",
+          "family": "Braun"
+        },
+        {
+          "given": "Howard Jay",
+          "family": "Siegel"
+        },
+        {
+          "given": "Noah",
+          "family": "Beck"
+        },
+        {
+          "given": "Ladislau L",
+          "family": "Bölöni"
+        },
+        {
+          "given": "Muthucumaru",
+          "family": "Maheswaran"
+        },
+        {
+          "given": "Albert I",
+          "family": "Reuther"
+        },
+        {
+          "given": "James P",
+          "family": "Robertson"
+        },
+        {
+          "given": "Mitchell D",
+          "family": "Theys"
+        },
+        {
+          "given": "Bin",
+          "family": "Yao"
+        },
+        {
+          "given": "Debra",
+          "family": "Hensgen"
+        },
+        {
+          "given": "Richard F",
+          "family": "Freund"
+        }
+      ],
+      "year": 2001,
+      "publication_date_parts": [
+        2001,
+        6
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "61",
+      "issue": "6",
+      "pages": "810-837",
+      "source_url": "https://api.crossref.org/works/10.1006/jpdc.2000.1714",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref17",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/71.963420",
+      "title": "The power of two choices in randomized load balancing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "M.",
+          "family": "Mitzenmacher"
+        }
+      ],
+      "year": 2001,
+      "publication_date_parts": [
+        2001
+      ],
+      "venue": "IEEE Transactions on Parallel and Distributed Systems",
+      "type": "journal-article",
+      "volume": "12",
+      "issue": "10",
+      "pages": "1094-1104",
+      "source_url": "https://api.crossref.org/works/10.1109/71.963420",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref18",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/571825.571876",
+      "title": "Non-blocking steal-half work queues",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Danny",
+          "family": "Hendler"
+        },
+        {
+          "given": "Nir",
+          "family": "Shavit"
+        }
+      ],
+      "year": 2002,
+      "publication_date_parts": [
+        2002,
+        7,
+        21
+      ],
+      "venue": "Proceedings of the twenty-first annual symposium on Principles of distributed computing",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "280-289",
+      "source_url": "https://api.crossref.org/works/10.1145/571825.571876",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref19",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/mcse.2007.55",
+      "title": "Matplotlib: A 2D Graphics Environment",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "John D.",
+          "family": "Hunter"
+        }
+      ],
+      "year": 2007,
+      "publication_date_parts": [
+        2007
+      ],
+      "venue": "Computing in Science &amp; Engineering",
+      "type": "journal-article",
+      "volume": "9",
+      "issue": "3",
+      "pages": "90-95",
+      "source_url": "https://api.crossref.org/works/10.1109/mcse.2007.55",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref20",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/1654059.1654113",
+      "title": "Scalable work stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "James",
+          "family": "Dinan"
+        },
+        {
+          "given": "D. Brian",
+          "family": "Larkins"
+        },
+        {
+          "given": "P.",
+          "family": "Sadayappan"
+        },
+        {
+          "given": "Sriram",
+          "family": "Krishnamoorthy"
+        },
+        {
+          "given": "Jarek",
+          "family": "Nieplocha"
+        }
+      ],
+      "year": 2009,
+      "publication_date_parts": [
+        2009,
+        11,
+        14
+      ],
+      "venue": "Proceedings of the Conference on High Performance Computing Networking, Storage and Analysis",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-11",
+      "source_url": "https://api.crossref.org/works/10.1145/1654059.1654113",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref21",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1007/978-3-642-12331-3_2",
+      "title": "The ns-3 Network Simulator",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "George F.",
+          "family": "Riley"
+        },
+        {
+          "given": "Thomas R.",
+          "family": "Henderson"
+        }
+      ],
+      "year": 2010,
+      "publication_date_parts": [
+        2010
+      ],
+      "venue": "Modeling and Tools for Network Simulation",
+      "type": "book-chapter",
+      "volume": null,
+      "issue": null,
+      "pages": "15-34",
+      "source_url": "https://api.crossref.org/works/10.1007/978-3-642-12331-3_2",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref22",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/2038037.1941582",
+      "title": "Lifeline-based global load balancing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Vijay A.",
+          "family": "Saraswat"
+        },
+        {
+          "given": "Prabhanjan",
+          "family": "Kambadur"
+        },
+        {
+          "given": "Sreedhar",
+          "family": "Kodali"
+        },
+        {
+          "given": "David",
+          "family": "Grove"
+        },
+        {
+          "given": "Sriram",
+          "family": "Krishnamoorthy"
+        }
+      ],
+      "year": 2011,
+      "publication_date_parts": [
+        2011,
+        2,
+        12
+      ],
+      "venue": "ACM SIGPLAN Notices",
+      "type": "journal-article",
+      "volume": "46",
+      "issue": "8",
+      "pages": "201-212",
+      "source_url": "https://api.crossref.org/works/10.1145/2038037.1941582",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref23",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1145/2391229.2391236",
+      "title": "Heterogeneity and dynamicity of clouds at scale",
+      "subtitle": "Google trace analysis",
+      "authors": [
+        {
+          "given": "Charles",
+          "family": "Reiss"
+        },
+        {
+          "given": "Alexey",
+          "family": "Tumanov"
+        },
+        {
+          "given": "Gregory R.",
+          "family": "Ganger"
+        },
+        {
+          "given": "Randy H.",
+          "family": "Katz"
+        },
+        {
+          "given": "Michael A.",
+          "family": "Kozuch"
+        }
+      ],
+      "year": 2012,
+      "publication_date_parts": [
+        2012,
+        10,
+        14
+      ],
+      "venue": "Proceedings of the Third ACM Symposium on Cloud Computing",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-13",
+      "source_url": "https://api.crossref.org/works/10.1145/2391229.2391236",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref24",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/2491894.2464160",
+      "title": "Rigorous benchmarking in reasonable time",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Tomas",
+          "family": "Kalibera"
+        },
+        {
+          "given": "Richard",
+          "family": "Jones"
+        }
+      ],
+      "year": 2013,
+      "publication_date_parts": [
+        2013,
+        6,
+        20
+      ],
+      "venue": "Proceedings of the 2013 international symposium on memory management",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "63-74",
+      "source_url": "https://api.crossref.org/works/10.1145/2491894.2464160",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref25",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/2517349.2522716",
+      "title": "Sparrow",
+      "subtitle": "distributed, low latency scheduling",
+      "authors": [
+        {
+          "given": "Kay",
+          "family": "Ousterhout"
+        },
+        {
+          "given": "Patrick",
+          "family": "Wendell"
+        },
+        {
+          "given": "Matei",
+          "family": "Zaharia"
+        },
+        {
+          "given": "Ion",
+          "family": "Stoica"
+        }
+      ],
+      "year": 2013,
+      "publication_date_parts": [
+        2013,
+        11,
+        3
+      ],
+      "venue": "Proceedings of the Twenty-Fourth ACM Symposium on Operating Systems Principles",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "69-84",
+      "source_url": "https://api.crossref.org/works/10.1145/2517349.2522716",
+      "source_cache_sha256": "e5f15bd662cbc1d5128ec68c592fb8b93f746e7e7eee1176672c23462452fcbe",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "canonical replacement of a misleading title-only match",
+      "retrieval_date": "2026-10-03",
+      "key": "ref26",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.jpdc.2014.06.008",
+      "title": "Versatile, scalable, and accurate simulation of distributed applications and platforms",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Henri",
+          "family": "Casanova"
+        },
+        {
+          "given": "Arnaud",
+          "family": "Giersch"
+        },
+        {
+          "given": "Arnaud",
+          "family": "Legrand"
+        },
+        {
+          "given": "Martin",
+          "family": "Quinson"
+        },
+        {
+          "given": "Frédéric",
+          "family": "Suter"
+        }
+      ],
+      "year": 2014,
+      "publication_date_parts": [
+        2014,
+        10
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "74",
+      "issue": "10",
+      "pages": "2899-2917",
+      "source_url": "https://api.crossref.org/works/10.1016/j.jpdc.2014.06.008",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref27",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/2741948.2741964",
+      "title": "Large-scale cluster management at Google with Borg",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Abhishek",
+          "family": "Verma"
+        },
+        {
+          "given": "Luis",
+          "family": "Pedrosa"
+        },
+        {
+          "given": "Madhukar",
+          "family": "Korupolu"
+        },
+        {
+          "given": "David",
+          "family": "Oppenheimer"
+        },
+        {
+          "given": "Eric",
+          "family": "Tune"
+        },
+        {
+          "given": "John",
+          "family": "Wilkes"
+        }
+      ],
+      "year": 2015,
+      "publication_date_parts": [
+        2015,
+        4,
+        17
+      ],
+      "venue": "Proceedings of the Tenth European Conference on Computer Systems",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-17",
+      "source_url": "https://api.crossref.org/works/10.1145/2741948.2741964",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref28",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/2807591.2807644",
+      "title": "Scientific benchmarking of parallel computing systems",
+      "subtitle": "twelve ways to tell the masses when reporting performance results",
+      "authors": [
+        {
+          "given": "Torsten",
+          "family": "Hoefler"
+        },
+        {
+          "given": "Roberto",
+          "family": "Belli"
+        }
+      ],
+      "year": 2015,
+      "publication_date_parts": [
+        2015,
+        11,
+        15
+      ],
+      "venue": "Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-12",
+      "source_url": "https://api.crossref.org/works/10.1145/2807591.2807644",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref29",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/works.2018.00013",
+      "title": "WRENCH: A Framework for Simulating Workflow Management Systems",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Henri",
+          "family": "Casanova"
+        },
+        {
+          "given": "Suraj",
+          "family": "Pandey"
+        },
+        {
+          "given": "James",
+          "family": "Oeth"
+        },
+        {
+          "given": "Ryan",
+          "family": "Tanaka"
+        },
+        {
+          "given": "Frederic",
+          "family": "Suter"
+        },
+        {
+          "given": "Rafael",
+          "family": "Ferreira da Silva"
+        }
+      ],
+      "year": 2018,
+      "publication_date_parts": [
+        2018,
+        11
+      ],
+      "venue": "2018 IEEE/ACM Workflows in Support of Large-Scale Science (WORKS)",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "74-85",
+      "source_url": "https://api.crossref.org/works/10.1109/works.2018.00013",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref30",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/empdp.2019.8671619",
+      "title": "Dynamic Loop Scheduling Using MPI Passive-Target Remote Memory Access",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Ahmed",
+          "family": "Eleliemy"
+        },
+        {
+          "given": "Florina M.",
+          "family": "Ciorba"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        2
+      ],
+      "venue": "2019 27th Euromicro International Conference on Parallel, Distributed and Network-Based Processing (PDP)",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "75-82",
+      "source_url": "https://api.crossref.org/works/10.1109/empdp.2019.8671619",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "MPI dynamic loop scheduling",
+      "retrieval_date": "2026-10-03",
+      "key": "ref31",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/ipdpsw.2019.00117",
+      "title": "Hierarchical Dynamic Loop Self-Scheduling on Distributed-Memory Systems Using an MPI+MPI Approach",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Ahmed",
+          "family": "Eleliemy"
+        },
+        {
+          "given": "Florina M.",
+          "family": "Ciorba"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        5
+      ],
+      "venue": "2019 IEEE International Parallel and Distributed Processing Symposium Workshops (IPDPSW)",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "689-697",
+      "source_url": "https://api.crossref.org/works/10.1109/ipdpsw.2019.00117",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "hierarchical distributed loop scheduling",
+      "retrieval_date": "2026-10-03",
+      "key": "ref32",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3293883.3295735",
+      "title": "Proactive work stealing for futures",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Kyle",
+          "family": "Singer"
+        },
+        {
+          "given": "Yifan",
+          "family": "Xu"
+        },
+        {
+          "given": "I-Ting Angelina",
+          "family": "Lee"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        2,
+        16
+      ],
+      "venue": "Proceedings of the 24th Symposium on Principles and Practice of Parallel Programming",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "257-271",
+      "source_url": "https://api.crossref.org/works/10.1145/3293883.3295735",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "futures/dependencies; model boundary",
+      "retrieval_date": "2026-10-03",
+      "key": "ref33",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3295500.3356161",
+      "title": "Almost deterministic work stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Shumpei",
+          "family": "Shiina"
+        },
+        {
+          "given": "Kenjiro",
+          "family": "Taura"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        11,
+        17
+      ],
+      "venue": "Proceedings of the International Conference for High Performance Computing, Networking, Storage and Analysis",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-16",
+      "source_url": "https://api.crossref.org/works/10.1145/3295500.3356161",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "deterministic distributed stealing",
+      "retrieval_date": "2026-10-03",
+      "key": "ref34",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3337821.3337878",
+      "title": "Accelerated Work Stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "D. Brian",
+          "family": "Larkins"
+        },
+        {
+          "given": "John",
+          "family": "Snyder"
+        },
+        {
+          "given": "James",
+          "family": "Dinan"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        8,
+        5
+      ],
+      "venue": "Proceedings of the 48th International Conference on Parallel Processing",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-10",
+      "source_url": "https://api.crossref.org/works/10.1145/3337821.3337878",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "accelerated work stealing",
+      "retrieval_date": "2026-10-03",
+      "key": "ref35",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3341302.3342080",
+      "title": "Learning scheduling algorithms for data processing clusters",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Hongzi",
+          "family": "Mao"
+        },
+        {
+          "given": "Malte",
+          "family": "Schwarzkopf"
+        },
+        {
+          "given": "Shaileshh Bojja",
+          "family": "Venkatakrishnan"
+        },
+        {
+          "given": "Zili",
+          "family": "Meng"
+        },
+        {
+          "given": "Mohammad",
+          "family": "Alizadeh"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019,
+        8,
+        19
+      ],
+      "venue": "Proceedings of the ACM Special Interest Group on Data Communication",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "270-288",
+      "source_url": "https://api.crossref.org/works/10.1145/3341302.3342080",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref36",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1504/ijwgs.2019.103233",
+      "title": "Staccato: shared-memory work-stealing task scheduler with cache-aware memory management",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Ruslan",
+          "family": "Kuchumov"
+        },
+        {
+          "given": "Andrey",
+          "family": "Sokolov"
+        },
+        {
+          "given": "Vladimir",
+          "family": "Korkhov"
+        }
+      ],
+      "year": 2019,
+      "publication_date_parts": [
+        2019
+      ],
+      "venue": "International Journal of Web and Grid Services",
+      "type": "journal-article",
+      "volume": "15",
+      "issue": "4",
+      "pages": "394",
+      "source_url": "https://api.crossref.org/works/10.1504/ijwgs.2019.103233",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "shared-memory stealing and cache effects boundary",
+      "retrieval_date": "2026-10-03",
+      "key": "ref37",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1038/s41586-020-2649-2",
+      "title": "Array programming with NumPy",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Charles R.",
+          "family": "Harris"
+        },
+        {
+          "given": "K. Jarrod",
+          "family": "Millman"
+        },
+        {
+          "given": "Stéfan J.",
+          "family": "van der Walt"
+        },
+        {
+          "given": "Ralf",
+          "family": "Gommers"
+        },
+        {
+          "given": "Pauli",
+          "family": "Virtanen"
+        },
+        {
+          "given": "David",
+          "family": "Cournapeau"
+        },
+        {
+          "given": "Eric",
+          "family": "Wieser"
+        },
+        {
+          "given": "Julian",
+          "family": "Taylor"
+        },
+        {
+          "given": "Sebastian",
+          "family": "Berg"
+        },
+        {
+          "given": "Nathaniel J.",
+          "family": "Smith"
+        },
+        {
+          "given": "Robert",
+          "family": "Kern"
+        },
+        {
+          "given": "Matti",
+          "family": "Picus"
+        },
+        {
+          "given": "Stephan",
+          "family": "Hoyer"
+        },
+        {
+          "given": "Marten H.",
+          "family": "van Kerkwijk"
+        },
+        {
+          "given": "Matthew",
+          "family": "Brett"
+        },
+        {
+          "given": "Allan",
+          "family": "Haldane"
+        },
+        {
+          "given": "Jaime Fernández",
+          "family": "del Río"
+        },
+        {
+          "given": "Mark",
+          "family": "Wiebe"
+        },
+        {
+          "given": "Pearu",
+          "family": "Peterson"
+        },
+        {
+          "given": "Pierre",
+          "family": "Gérard-Marchant"
+        },
+        {
+          "given": "Kevin",
+          "family": "Sheppard"
+        },
+        {
+          "given": "Tyler",
+          "family": "Reddy"
+        },
+        {
+          "given": "Warren",
+          "family": "Weckesser"
+        },
+        {
+          "given": "Hameer",
+          "family": "Abbasi"
+        },
+        {
+          "given": "Christoph",
+          "family": "Gohlke"
+        },
+        {
+          "given": "Travis E.",
+          "family": "Oliphant"
+        }
+      ],
+      "year": 2020,
+      "publication_date_parts": [
+        2020,
+        9,
+        16
+      ],
+      "venue": "Nature",
+      "type": "journal-article",
+      "volume": "585",
+      "issue": "7825",
+      "pages": "357-362",
+      "source_url": "https://api.crossref.org/works/10.1038/s41586-020-2649-2",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref38",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1038/s41592-019-0686-2",
+      "title": "SciPy 1.0: fundamental algorithms for scientific computing in Python",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Pauli",
+          "family": "Virtanen"
+        },
+        {
+          "given": "Ralf",
+          "family": "Gommers"
+        },
+        {
+          "given": "Travis E.",
+          "family": "Oliphant"
+        },
+        {
+          "given": "Matt",
+          "family": "Haberland"
+        },
+        {
+          "given": "Tyler",
+          "family": "Reddy"
+        },
+        {
+          "given": "David",
+          "family": "Cournapeau"
+        },
+        {
+          "given": "Evgeni",
+          "family": "Burovski"
+        },
+        {
+          "given": "Pearu",
+          "family": "Peterson"
+        },
+        {
+          "given": "Warren",
+          "family": "Weckesser"
+        },
+        {
+          "given": "Jonathan",
+          "family": "Bright"
+        },
+        {
+          "given": "Stéfan J.",
+          "family": "van der Walt"
+        },
+        {
+          "given": "Matthew",
+          "family": "Brett"
+        },
+        {
+          "given": "Joshua",
+          "family": "Wilson"
+        },
+        {
+          "given": "K. Jarrod",
+          "family": "Millman"
+        },
+        {
+          "given": "Nikolay",
+          "family": "Mayorov"
+        },
+        {
+          "given": "Andrew R. J.",
+          "family": "Nelson"
+        },
+        {
+          "given": "Eric",
+          "family": "Jones"
+        },
+        {
+          "given": "Robert",
+          "family": "Kern"
+        },
+        {
+          "given": "Eric",
+          "family": "Larson"
+        },
+        {
+          "given": "C J",
+          "family": "Carey"
+        },
+        {
+          "given": "İlhan",
+          "family": "Polat"
+        },
+        {
+          "given": "Yu",
+          "family": "Feng"
+        },
+        {
+          "given": "Eric W.",
+          "family": "Moore"
+        },
+        {
+          "given": "Jake",
+          "family": "VanderPlas"
+        },
+        {
+          "given": "Denis",
+          "family": "Laxalde"
+        },
+        {
+          "given": "Josef",
+          "family": "Perktold"
+        },
+        {
+          "given": "Robert",
+          "family": "Cimrman"
+        },
+        {
+          "given": "Ian",
+          "family": "Henriksen"
+        },
+        {
+          "given": "E. A.",
+          "family": "Quintero"
+        },
+        {
+          "given": "Charles R.",
+          "family": "Harris"
+        },
+        {
+          "given": "Anne M.",
+          "family": "Archibald"
+        },
+        {
+          "given": "Antônio H.",
+          "family": "Ribeiro"
+        },
+        {
+          "given": "Fabian",
+          "family": "Pedregosa"
+        },
+        {
+          "given": "Paul",
+          "family": "van Mulbregt"
+        },
+        {
+          "name": "SciPy 1.0 Contributors"
+        },
+        {
+          "given": "Aditya",
+          "family": "Vijaykumar"
+        },
+        {
+          "given": "Alessandro Pietro",
+          "family": "Bardelli"
+        },
+        {
+          "given": "Alex",
+          "family": "Rothberg"
+        },
+        {
+          "given": "Andreas",
+          "family": "Hilboll"
+        },
+        {
+          "given": "Andreas",
+          "family": "Kloeckner"
+        },
+        {
+          "given": "Anthony",
+          "family": "Scopatz"
+        },
+        {
+          "given": "Antony",
+          "family": "Lee"
+        },
+        {
+          "given": "Ariel",
+          "family": "Rokem"
+        },
+        {
+          "given": "C. Nathan",
+          "family": "Woods"
+        },
+        {
+          "given": "Chad",
+          "family": "Fulton"
+        },
+        {
+          "given": "Charles",
+          "family": "Masson"
+        },
+        {
+          "given": "Christian",
+          "family": "Häggström"
+        },
+        {
+          "given": "Clark",
+          "family": "Fitzgerald"
+        },
+        {
+          "given": "David A.",
+          "family": "Nicholson"
+        },
+        {
+          "given": "David R.",
+          "family": "Hagen"
+        },
+        {
+          "given": "Dmitrii V.",
+          "family": "Pasechnik"
+        },
+        {
+          "given": "Emanuele",
+          "family": "Olivetti"
+        },
+        {
+          "given": "Eric",
+          "family": "Martin"
+        },
+        {
+          "given": "Eric",
+          "family": "Wieser"
+        },
+        {
+          "given": "Fabrice",
+          "family": "Silva"
+        },
+        {
+          "given": "Felix",
+          "family": "Lenders"
+        },
+        {
+          "given": "Florian",
+          "family": "Wilhelm"
+        },
+        {
+          "given": "G.",
+          "family": "Young"
+        },
+        {
+          "given": "Gavin A.",
+          "family": "Price"
+        },
+        {
+          "given": "Gert-Ludwig",
+          "family": "Ingold"
+        },
+        {
+          "given": "Gregory E.",
+          "family": "Allen"
+        },
+        {
+          "given": "Gregory R.",
+          "family": "Lee"
+        },
+        {
+          "given": "Hervé",
+          "family": "Audren"
+        },
+        {
+          "given": "Irvin",
+          "family": "Probst"
+        },
+        {
+          "given": "Jörg P.",
+          "family": "Dietrich"
+        },
+        {
+          "given": "Jacob",
+          "family": "Silterra"
+        },
+        {
+          "given": "James T",
+          "family": "Webber"
+        },
+        {
+          "given": "Janko",
+          "family": "Slavič"
+        },
+        {
+          "given": "Joel",
+          "family": "Nothman"
+        },
+        {
+          "given": "Johannes",
+          "family": "Buchner"
+        },
+        {
+          "given": "Johannes",
+          "family": "Kulick"
+        },
+        {
+          "given": "Johannes L.",
+          "family": "Schönberger"
+        },
+        {
+          "given": "José Vinícius",
+          "family": "de Miranda Cardoso"
+        },
+        {
+          "given": "Joscha",
+          "family": "Reimer"
+        },
+        {
+          "given": "Joseph",
+          "family": "Harrington"
+        },
+        {
+          "given": "Juan Luis Cano",
+          "family": "Rodríguez"
+        },
+        {
+          "given": "Juan",
+          "family": "Nunez-Iglesias"
+        },
+        {
+          "given": "Justin",
+          "family": "Kuczynski"
+        },
+        {
+          "given": "Kevin",
+          "family": "Tritz"
+        },
+        {
+          "given": "Martin",
+          "family": "Thoma"
+        },
+        {
+          "given": "Matthew",
+          "family": "Newville"
+        },
+        {
+          "given": "Matthias",
+          "family": "Kümmerer"
+        },
+        {
+          "given": "Maximilian",
+          "family": "Bolingbroke"
+        },
+        {
+          "given": "Michael",
+          "family": "Tartre"
+        },
+        {
+          "given": "Mikhail",
+          "family": "Pak"
+        },
+        {
+          "given": "Nathaniel J.",
+          "family": "Smith"
+        },
+        {
+          "given": "Nikolai",
+          "family": "Nowaczyk"
+        },
+        {
+          "given": "Nikolay",
+          "family": "Shebanov"
+        },
+        {
+          "given": "Oleksandr",
+          "family": "Pavlyk"
+        },
+        {
+          "given": "Per A.",
+          "family": "Brodtkorb"
+        },
+        {
+          "given": "Perry",
+          "family": "Lee"
+        },
+        {
+          "given": "Robert T.",
+          "family": "McGibbon"
+        },
+        {
+          "given": "Roman",
+          "family": "Feldbauer"
+        },
+        {
+          "given": "Sam",
+          "family": "Lewis"
+        },
+        {
+          "given": "Sam",
+          "family": "Tygier"
+        },
+        {
+          "given": "Scott",
+          "family": "Sievert"
+        },
+        {
+          "given": "Sebastiano",
+          "family": "Vigna"
+        },
+        {
+          "given": "Stefan",
+          "family": "Peterson"
+        },
+        {
+          "given": "Surhud",
+          "family": "More"
+        },
+        {
+          "given": "Tadeusz",
+          "family": "Pudlik"
+        },
+        {
+          "given": "Takuya",
+          "family": "Oshima"
+        },
+        {
+          "given": "Thomas J.",
+          "family": "Pingel"
+        },
+        {
+          "given": "Thomas P.",
+          "family": "Robitaille"
+        },
+        {
+          "given": "Thomas",
+          "family": "Spura"
+        },
+        {
+          "given": "Thouis R.",
+          "family": "Jones"
+        },
+        {
+          "given": "Tim",
+          "family": "Cera"
+        },
+        {
+          "given": "Tim",
+          "family": "Leslie"
+        },
+        {
+          "given": "Tiziano",
+          "family": "Zito"
+        },
+        {
+          "given": "Tom",
+          "family": "Krauss"
+        },
+        {
+          "given": "Utkarsh",
+          "family": "Upadhyay"
+        },
+        {
+          "given": "Yaroslav O.",
+          "family": "Halchenko"
+        },
+        {
+          "given": "Yoshiki",
+          "family": "Vázquez-Baeza"
+        }
+      ],
+      "year": 2020,
+      "publication_date_parts": [
+        2020,
+        2,
+        3
+      ],
+      "venue": "Nature Methods",
+      "type": "journal-article",
+      "volume": "17",
+      "issue": "3",
+      "pages": "261-272",
+      "source_url": "https://api.crossref.org/works/10.1038/s41592-019-0686-2",
+      "source_cache_sha256": "07dac61302594a267184c71a5e9062060023cb8a1c0ab4b0c7cb811ec89798f4",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "historical scheduling, graph theory, runtime, or methodology background",
+      "retrieval_date": "2026-10-03",
+      "key": "ref39",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3342195.3387517",
+      "title": "Borg",
+      "subtitle": "the next generation",
+      "authors": [
+        {
+          "given": "Muhammad",
+          "family": "Tirmazi"
+        },
+        {
+          "given": "Adam",
+          "family": "Barker"
+        },
+        {
+          "given": "Nan",
+          "family": "Deng"
+        },
+        {
+          "given": "Md E.",
+          "family": "Haque"
+        },
+        {
+          "given": "Zhijing Gene",
+          "family": "Qin"
+        },
+        {
+          "given": "Steven",
+          "family": "Hand"
+        },
+        {
+          "given": "Mor",
+          "family": "Harchol-Balter"
+        },
+        {
+          "given": "John",
+          "family": "Wilkes"
+        }
+      ],
+      "year": 2020,
+      "publication_date_parts": [
+        2020,
+        4,
+        15
+      ],
+      "venue": "Proceedings of the Fifteenth European Conference on Computer Systems",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-14",
+      "source_url": "https://api.crossref.org/works/10.1145/3342195.3387517",
+      "source_cache_sha256": "e5f15bd662cbc1d5128ec68c592fb8b93f746e7e7eee1176672c23462452fcbe",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "canonical replacement of a misleading title-only match",
+      "retrieval_date": "2026-10-03",
+      "key": "ref40",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.5220/0009875302330239",
+      "title": "Statistical Model Checking of Distributed Programs within SimGrid",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Marie",
+          "family": "Duflot-Kremer"
+        },
+        {
+          "given": "Yann",
+          "family": "Duplouy"
+        }
+      ],
+      "year": 2020,
+      "publication_date_parts": [
+        2020
+      ],
+      "venue": "Proceedings of the 10th International Conference on Simulation and Modeling Methodologies, Technologies and Applications",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "233-239",
+      "source_url": "https://api.crossref.org/works/10.5220/0009875302330239",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "distributed simulator verification",
+      "retrieval_date": "2026-10-03",
+      "key": "ref41",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1002/cpe.6750",
+      "title": "An adaptive self‐scheduling loop scheduler",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Joshua",
+          "family": "Dennis Booth"
+        },
+        {
+          "given": "Phillip",
+          "family": "Allen Lane"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021,
+        12,
+        2
+      ],
+      "venue": "Concurrency and Computation: Practice and Experience",
+      "type": "journal-article",
+      "volume": "34",
+      "issue": "6",
+      "pages": null,
+      "source_url": "https://api.crossref.org/works/10.1002/cpe.6750",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "adaptive self-scheduling",
+      "retrieval_date": "2026-10-03",
+      "key": "ref42",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.jpdc.2021.03.010",
+      "title": "Analysis of Work Stealing with latency",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Nicolas",
+          "family": "Gast"
+        },
+        {
+          "given": "Mohammed",
+          "family": "Khatiri"
+        },
+        {
+          "given": "Denis",
+          "family": "Trystram"
+        },
+        {
+          "given": "Frédéric",
+          "family": "Wagner"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021,
+        7
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "153",
+      "issue": null,
+      "pages": "119-129",
+      "source_url": "https://api.crossref.org/works/10.1016/j.jpdc.2021.03.010",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "latency-aware work-stealing analysis",
+      "retrieval_date": "2026-10-03",
+      "key": "ref43",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1016/j.jpdc.2021.06.003",
+      "title": "Sigmoid: An auto-tuned load balancing algorithm for heterogeneous systems",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Borja",
+          "family": "Pérez"
+        },
+        {
+          "given": "E.",
+          "family": "Stafford"
+        },
+        {
+          "given": "J.L.",
+          "family": "Bosque"
+        },
+        {
+          "given": "R.",
+          "family": "Beivide"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021,
+        11
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "157",
+      "issue": null,
+      "pages": "30-42",
+      "source_url": "https://api.crossref.org/works/10.1016/j.jpdc.2021.06.003",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "autotuning; heterogeneous systems boundary",
+      "retrieval_date": "2026-10-03",
+      "key": "ref44",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.tcs.2021.09.026",
+      "title": "Parallel Load Balancing on constrained client-server topologies",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Andrea",
+          "family": "Clementi"
+        },
+        {
+          "given": "Emanuele",
+          "family": "Natale"
+        },
+        {
+          "given": "Isabella",
+          "family": "Ziccardi"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021,
+        12
+      ],
+      "venue": "Theoretical Computer Science",
+      "type": "journal-article",
+      "volume": "895",
+      "issue": null,
+      "pages": "16-33",
+      "source_url": "https://api.crossref.org/works/10.1016/j.tcs.2021.09.026",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "constrained client-server topology theory",
+      "retrieval_date": "2026-10-03",
+      "key": "ref45",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1109/cluster48925.2021.00040",
+      "title": "Distributed Work Stealing at Scale via Matchmaking",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Hrushit",
+          "family": "Parikh"
+        },
+        {
+          "given": "Vinit",
+          "family": "Deodhar"
+        },
+        {
+          "given": "Ada",
+          "family": "Gavrilovska"
+        },
+        {
+          "given": "Santosh",
+          "family": "Pande"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021,
+        9
+      ],
+      "venue": "2021 IEEE International Conference on Cluster Computing (CLUSTER)",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "250-260",
+      "source_url": "https://api.crossref.org/works/10.1109/cluster48925.2021.00040",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "distributed stealing via matchmaking",
+      "retrieval_date": "2026-10-03",
+      "key": "ref46",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.2197/ipsjjip.29.478",
+      "title": "Work-stealing Strategies That Consider Work Amount and Hierarchy",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Ryusuke",
+          "family": "Nakashima"
+        },
+        {
+          "given": "Masahiro",
+          "family": "Yasugi"
+        },
+        {
+          "given": "Hiroshi",
+          "family": "Yoritaka"
+        },
+        {
+          "given": "Tasuku",
+          "family": "Hiraishi"
+        },
+        {
+          "given": "Seiji",
+          "family": "Umatani"
+        }
+      ],
+      "year": 2021,
+      "publication_date_parts": [
+        2021
+      ],
+      "venue": "Journal of Information Processing",
+      "type": "journal-article",
+      "volume": "29",
+      "issue": "0",
+      "pages": "478-489",
+      "source_url": "https://api.crossref.org/works/10.2197/ipsjjip.29.478",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "amount and hierarchy in stealing strategies",
+      "retrieval_date": "2026-10-03",
+      "key": "ref47",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.jpdc.2022.07.002",
+      "title": "Optimal load balancing and assessment of existing load balancing criteria",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Anthony",
+          "family": "Boulmier"
+        },
+        {
+          "given": "Nabil",
+          "family": "Abdennadher"
+        },
+        {
+          "given": "Bastien",
+          "family": "Chopard"
+        }
+      ],
+      "year": 2022,
+      "publication_date_parts": [
+        2022,
+        11
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "169",
+      "issue": null,
+      "pages": "211-225",
+      "source_url": "https://api.crossref.org/works/10.1016/j.jpdc.2022.07.002",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "load-balancing criteria",
+      "retrieval_date": "2026-10-03",
+      "key": "ref48",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1109/mc.2022.3152681",
+      "title": "Benchmarking Data Science: 12 Ways to Lie With Statistics and Performance on Parallel Computers",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Torsten",
+          "family": "Hoefler"
+        }
+      ],
+      "year": 2022,
+      "publication_date_parts": [
+        2022,
+        8
+      ],
+      "venue": "Computer",
+      "type": "journal-article",
+      "volume": "55",
+      "issue": "8",
+      "pages": "49-56",
+      "source_url": "https://api.crossref.org/works/10.1109/mc.2022.3152681",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "benchmarking and statistical interpretation",
+      "retrieval_date": "2026-10-03",
+      "key": "ref49",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3526063.3535352",
+      "title": "Performance Evaluation Through Simulation with SimGrid",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Frédéric",
+          "family": "Suter"
+        }
+      ],
+      "year": 2022,
+      "publication_date_parts": [
+        2022,
+        6,
+        27
+      ],
+      "venue": "Proceedings of the 2nd Workshop on Performance EngineeRing, Modelling, Analysis, and VisualizatiOn Strategy",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "1-1",
+      "source_url": "https://api.crossref.org/works/10.1145/3526063.3535352",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "simulation performance methodology",
+      "retrieval_date": "2026-10-03",
+      "key": "ref50",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.parco.2023.103020",
+      "title": "Lifeline-based load balancing schemes for Asynchronous Many-Task runtimes in clusters",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Mia",
+          "family": "Reitz"
+        },
+        {
+          "given": "Kai",
+          "family": "Hardenbicker"
+        },
+        {
+          "given": "Tobias",
+          "family": "Werner"
+        },
+        {
+          "given": "Claudia",
+          "family": "Fohry"
+        }
+      ],
+      "year": 2023,
+      "publication_date_parts": [
+        2023,
+        7
+      ],
+      "venue": "Parallel Computing",
+      "type": "journal-article",
+      "volume": "116",
+      "issue": null,
+      "pages": "103020",
+      "source_url": "https://api.crossref.org/works/10.1016/j.parco.2023.103020",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "lifeline balancing in distributed task runtimes",
+      "retrieval_date": "2026-10-03",
+      "key": "ref51",
+      "closest_ten_reading_priority": true
+    },
+    {
+      "doi": "10.1145/3558481.3591099",
+      "title": "Efficient Synchronization-Light Work Stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Rafael",
+          "family": "Custódio"
+        },
+        {
+          "given": "Hervé",
+          "family": "Paulino"
+        },
+        {
+          "given": "Guilherme",
+          "family": "Rito"
+        }
+      ],
+      "year": 2023,
+      "publication_date_parts": [
+        2023,
+        6,
+        17
+      ],
+      "venue": "Proceedings of the 35th ACM Symposium on Parallelism in Algorithms and Architectures",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "39-49",
+      "source_url": "https://api.crossref.org/works/10.1145/3558481.3591099",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "synchronization overhead of stealing",
+      "retrieval_date": "2026-10-03",
+      "key": "ref52",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1016/j.jpdc.2023.104816",
+      "title": "Read/write fence-free work-stealing with multiplicity",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Armando",
+          "family": "Castañeda"
+        },
+        {
+          "given": "Miguel",
+          "family": "Piña"
+        }
+      ],
+      "year": 2024,
+      "publication_date_parts": [
+        2024,
+        4
+      ],
+      "venue": "Journal of Parallel and Distributed Computing",
+      "type": "journal-article",
+      "volume": "186",
+      "issue": null,
+      "pages": "104816",
+      "source_url": "https://api.crossref.org/works/10.1016/j.jpdc.2023.104816",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "work-queue correctness; multiplicity differs from our invariant",
+      "retrieval_date": "2026-10-03",
+      "key": "ref53",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3633331",
+      "title": "COWS for High Performance: Cost Aware Work Stealing for Irregular Parallel Loop",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Prasoon",
+          "family": "Mishra"
+        },
+        {
+          "given": "V. Krishna",
+          "family": "Nandivada"
+        }
+      ],
+      "year": 2024,
+      "publication_date_parts": [
+        2024,
+        1,
+        19
+      ],
+      "venue": "ACM Transactions on Architecture and Code Optimization",
+      "type": "journal-article",
+      "volume": "21",
+      "issue": "1",
+      "pages": "1-26",
+      "source_url": "https://api.crossref.org/works/10.1145/3633331",
+      "source_cache_sha256": "7c03d4acc8af0b4d13567c07e588e07d0d006ac5fb1500fa5ea1658ce02cef16",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "cost-aware stealing; shared-memory boundary",
+      "retrieval_date": "2026-10-03",
+      "key": "ref54",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3635035.3635041",
+      "title": "Portable Implementations of Work Stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Masahiro",
+          "family": "Yasugi"
+        },
+        {
+          "given": "Tasuku",
+          "family": "Hiraishi"
+        },
+        {
+          "given": "Chihiro",
+          "family": "Takeuchi"
+        }
+      ],
+      "year": 2024,
+      "publication_date_parts": [
+        2024,
+        1,
+        18
+      ],
+      "venue": "Proceedings of the International Conference on High Performance Computing in Asia-Pacific Region",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "12-22",
+      "source_url": "https://api.crossref.org/works/10.1145/3635035.3635041",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "portable work-stealing implementations",
+      "retrieval_date": "2026-10-03",
+      "key": "ref55",
+      "closest_ten_reading_priority": false
+    },
+    {
+      "doi": "10.1145/3774934.3786452",
+      "title": "Waste-Efficient Work Stealing",
+      "subtitle": "",
+      "authors": [
+        {
+          "given": "Kyle",
+          "family": "Singer"
+        },
+        {
+          "given": "Kunal",
+          "family": "Agrawal"
+        },
+        {
+          "given": "Tao B.",
+          "family": "Schardl"
+        }
+      ],
+      "year": 2026,
+      "publication_date_parts": [
+        2026,
+        1,
+        28
+      ],
+      "venue": "Proceedings of the 31st ACM SIGPLAN Annual Symposium on Principles and Practice of Parallel Programming",
+      "type": "proceedings-article",
+      "volume": null,
+      "issue": null,
+      "pages": "68-80",
+      "source_url": "https://api.crossref.org/works/10.1145/3774934.3786452",
+      "source_cache_sha256": "f4630bbe28e622702c29920bf632a4d150f186e48dec93d043c4549862accd8f",
+      "verification": "Crossref bibliographic existence; author/title/date reviewed",
+      "full_paper_read": false,
+      "claim_verification": "pending full text",
+      "relevance_scope": "work-stealing overhead; published January 2026",
+      "retrieval_date": "2026-10-03",
+      "key": "ref56",
+      "closest_ten_reading_priority": false
+    }
+  ],
+  "verified_count": 56,
+  "since_2019_count": 26,
+  "full_paper_read_count": 0,
+  "excluded_examples": [
+    "Spectral Graph Theory: wrong 2019 chapter",
+    "Regular Polytopes: wrong Johnson chapter",
+    "MapReduce: wrong authors",
+    "Ray: unrelated 1992 paper",
+    "Borg Next Generation: unrelated poem",
+    "Holm: wrong Shaffer paper",
+    "UTS: deposited publication year missing"
+  ]
+}

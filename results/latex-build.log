@@ -55,6 +55,7 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(./numbers.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
 (./paper.aux)
 -- Lines per column: 58 (exact).
@@ -67,26 +68,34 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}]
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+
 [2 <./figures/solids.pdf>]
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 
-[3] (./results_table.tex) (./effects_table.tex)
-
+[3]
+(./results_table.tex) (./effects_table.tex)
 [4]
+
+[5]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+[6 <./figures/paired_effects.pdf> <./figures/traffic.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active
 
 Underfull \vbox (badness 10000) has occurred while \output is active
-[5 <./figures/paired_effects.pdf>]
-Underfull \vbox (badness 1132) has occurred while \output is active
+[7 <./figures/latency.pdf> <./figures/bottlenecks.pdf>]
 
-[6 <./figures/traffic.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active
+[8]
 
-Underfull \vbox (badness 10000) has occurred while \output is active
-[7 <./figures/latency.pdf> <./figures/bottlenecks.pdf> <./figures/topologies.pd
-f>]
-
-[8] (./paper.aux) )
+[9 <./figures/topologies.pdf>] (./paper.aux) )
 (see the transcript file for additional information)</usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
@@ -99,7 +108,7 @@ are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on paper.pdf (8 pages, 268614 bytes).
+Output written on paper.pdf (9 pages, 346538 bytes).
 Transcript written on paper.log.
 This is pdfTeX, Version 3.141592653-2.6-1.40.26 (TeX Live 2025/dev/Debian) (preloaded format=pdflatex)
  restricted \write18 enabled.
@@ -158,6 +167,7 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/base/atveryend-ltx.sty)
 (/usr/share/texlive/texmf-dist/tex/latex/rerunfilecheck/rerunfilecheck.sty
 (/usr/share/texlive/texmf-dist/tex/generic/uniquecounter/uniquecounter.sty)))
+(./numbers.tex)
 (/usr/share/texlive/texmf-dist/tex/latex/l3backend/l3backend-pdftex.def)
 (./paper.aux)
 -- Lines per column: 58 (exact).
@@ -170,26 +180,34 @@ For additional information on amsmath, use the `?' option.
 (/usr/share/texlive/texmf-dist/tex/latex/amsfonts/umsb.fd)
 [1{/var/lib/texmf/fonts/map/pdftex/updmap/pdftex.map}{/usr/share/texlive/texmf-
 dist/fonts/enc/dvips/base/8r.enc}]
-(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
+
 [2 <./figures/solids.pdf>]
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/t1pcr.fd)
 
-[3] (./results_table.tex) (./effects_table.tex)
-
+[3]
+(./results_table.tex) (./effects_table.tex)
 [4]
+
+[5]
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+
+LaTeX Warning: Text page 6 contains only floats.
+
+
+Underfull \vbox (badness 10000) has occurred while \output is active
+[6 <./figures/paired_effects.pdf> <./figures/traffic.pdf>]
 Underfull \vbox (badness 10000) has occurred while \output is active
 
 Underfull \vbox (badness 10000) has occurred while \output is active
-[5 <./figures/paired_effects.pdf>]
-Underfull \vbox (badness 1132) has occurred while \output is active
+[7 <./figures/latency.pdf> <./figures/bottlenecks.pdf>]
 
-[6 <./figures/traffic.pdf>]
-Underfull \vbox (badness 10000) has occurred while \output is active
+[8]
 
-Underfull \vbox (badness 10000) has occurred while \output is active
-[7 <./figures/latency.pdf> <./figures/bottlenecks.pdf> <./figures/topologies.pd
-f>]
-
-[8] (./paper.aux) )
+[9 <./figures/topologies.pdf>] (./paper.aux) )
 (see the transcript file for additional information)</usr/share/texlive/texmf-d
 ist/fonts/type1/public/amsfonts/cm/cmex10.pfb></usr/share/texlive/texmf-dist/fo
 nts/type1/public/amsfonts/cm/cmmi10.pfb></usr/share/texlive/texmf-dist/fonts/ty
@@ -202,5 +220,5 @@ are/texlive/texmf-dist/fonts/type1/urw/times/utmb8a.pfb></usr/share/texlive/tex
 mf-dist/fonts/type1/urw/times/utmbi8a.pfb></usr/share/texlive/texmf-dist/fonts/
 type1/urw/times/utmr8a.pfb></usr/share/texlive/texmf-dist/fonts/type1/urw/times
 /utmri8a.pfb>
-Output written on paper.pdf (8 pages, 268614 bytes).
+Output written on paper.pdf (9 pages, 346538 bytes).
 Transcript written on paper.log.

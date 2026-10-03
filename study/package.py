@@ -3,20 +3,27 @@ import hashlib
 import json
 from pathlib import Path
 import zipfile
+import xml.etree.ElementTree as ET
 
 def main():
     root=Path(__file__).resolve().parents[1]
-    paths=[root/"README.md",root/"setup-study.sh",root/"requirements-study.txt"]
-    for directory in ("study","results","paper"):
+    paths=[root/name for name in ("README.md","setup-study.sh","requirements-study.txt",
+                                  "Makefile","Dockerfile","refs.bib")]
+    for directory in ("study","analysis","results","paper","docs","hardware","visualizations"):
         for path in (root/directory).rglob("*"):
-            if not path.is_file() or "__pycache__" in path.parts:continue
+            if not path.is_file() or any(p in path.parts for p in ("__pycache__","source-records","raw")):continue
             if path.suffix in (".pyc",".aux",".out"):continue
-            if path.name in ("paper.log","setup.log","manifest.json"):continue
+            if path.name in ("paper.log","setup.log","manifest.json","tests.xml"):continue
             paths.append(path)
     paths=sorted(paths)
+    suites=list(ET.parse(root/"results/tests.xml").getroot().iter("testsuite"))
+    assert all(int(s.attrib.get(k,0))==0 for s in suites for k in ("failures","errors","skipped"))
+    tests=sum(int(s.attrib["tests"]) for s in suites)
     manifest={"files":[{"path":str(p.relative_to(root)),"bytes":p.stat().st_size,
                         "sha256":hashlib.sha256(p.read_bytes()).hexdigest()} for p in paths],
-              "experiment_runs":16050,"validation_tests":116,"replayed_cases":141,
+              "experiment_runs":16050,"validation_tests":tests,"replayed_cases":141,
+              "research_phase":"exploratory historical simulation; prospective plan draft",
+              "hardware_measurements":0,"new_policy_final_experiments":0,
               "timing_scope":"discrete-event simulated milliseconds; not hardware performance"}
     manifest_path=root/"results/manifest.json"
     manifest_path.write_text(json.dumps(manifest,indent=2)+"\n")

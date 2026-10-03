@@ -1,0 +1,10 @@
+.git
+__pycache__
+**/__pycache__
+.pytest_cache
+docs/source-records
+hardware/raw
+platonic-study.zip
+paper/*.aux
+paper/*.log
+paper/*.out

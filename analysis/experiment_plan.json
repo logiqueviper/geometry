@@ -1,0 +1,78 @@
+{
+  "status": "draft_requires_human_approval_after_literature_review",
+  "historical_seeds": [0, 29],
+  "seed_ranges": {
+    "tuning_workloads": [1000, 1029],
+    "primary_evaluation_workloads": [2000, 2029],
+    "key_comparison_evaluation_workloads": [3000, 3099],
+    "topology_evaluation_graphs": [4000, 4019],
+    "topology_tuning_graphs": [5000, 5019],
+    "hardware_run_order": [6000, 6000]
+  },
+  "primary": {
+    "solids": ["tetrahedron", "octahedron", "cube", "icosahedron", "dodecahedron"],
+    "workloads": ["constant", "exponential", "lognormal", "pareto", "clustered", "bimodal"],
+    "policies": ["static", "static_lpt_oracle", "central_queue", "guided_queue", "factoring_fac2", "trapezoid_tss", "global_steal_one", "global_steal_half", "neighbor_steal", "neighbor_push", "diffusion", "central_rebalance", "hub_assisted"],
+    "tasks": 2400,
+    "seeds": 30,
+    "runs": 11700,
+    "primary_config": {"mean_task_ms": 1, "task_bytes": 4096, "result_bytes": 64, "control_bytes": 32, "latency_ms": 0.01, "bandwidth_mib_s": 100, "shared_nic": false, "worker_speed": 1}
+  },
+  "key_comparisons": {
+    "solids": ["icosahedron", "dodecahedron"],
+    "workloads": ["lognormal", "clustered"],
+    "policies": ["static", "neighbor_push", "neighbor_steal", "hub_assisted"],
+    "seeds": 100,
+    "runs": 1600
+  },
+  "topology": {
+    "worker_counts": [6, 8, 12, 20],
+    "workloads": ["lognormal", "pareto", "clustered"],
+    "policies": ["neighbor_push", "neighbor_steal", "hub_assisted"],
+    "rewired_graphs": 20,
+    "workload_seeds": 30,
+    "runs_rewired": 21600,
+    "model_training_graph_seeds": [4000, 4014],
+    "model_validation_graph_seeds": [4015, 4019]
+  },
+  "tuning": {
+    "maximum_parameter_points_per_tunable_policy": 12,
+    "workload_seeds": 30,
+    "scoring_solids": ["tetrahedron", "octahedron", "cube", "icosahedron", "dodecahedron"],
+    "scoring_workloads": ["exponential", "lognormal", "pareto"],
+    "objective": "geometric mean last-result makespan relative to static across scoring contexts",
+    "tie_break": "fewer master physical-hop messages, then lexicographic parameter encoding",
+    "oracle": "no tuning; unrealistic information reference; excluded from competitive rank claims"
+  },
+  "scaling": {
+    "geodesic_worker_counts": [12, 42, 92, 162],
+    "geodesic_strong_tasks": 52164,
+    "hypercube_worker_counts": [8, 16, 32, 64, 128],
+    "hypercube_strong_tasks": 16384,
+    "weak_tasks_per_worker": 300,
+    "workloads": ["lognormal", "clustered"],
+    "policies": ["neighbor_push", "neighbor_steal", "hub_assisted"],
+    "workload_seeds": 30,
+    "runs": 3240,
+    "cross_family_limit": "Strong-scaling families use different fixed jobs to preserve exact equal task counts. Compare slopes within a family; do not compare raw times across jobs."
+  },
+  "communication": {
+    "solids": ["icosahedron", "dodecahedron"],
+    "workloads": ["lognormal", "clustered"],
+    "policies": ["guided_queue", "neighbor_push", "neighbor_steal", "hub_assisted"],
+    "latency_ms": [0.01, 0.1, 1, 10],
+    "bandwidth_mib_s": [10, 100, 1024],
+    "shared_nic": [false, true],
+    "master_service_ms": [0, 0.01],
+    "workload_seeds": 30,
+    "runs": 23040
+  },
+  "hardware": {
+    "status": "hardware_inventory_and_budget_required",
+    "minimum_repetitions": 20,
+    "timing_clock": "master monotonic clock from dispatch to last unique result",
+    "calibration_validation_disjoint": true,
+    "mape_target_percent": 5,
+    "failure_semantics": "at-least-once task attempts with exactly-once final result collection; never claim exactly-once physical execution after uncertain crashes"
+  }
+}

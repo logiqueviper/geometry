@@ -10,4 +10,4 @@ python -m venv --system-site-packages /workspace/platonic-env/venv
 command -v pdflatex
 test -f paper/IEEEtran.cls
 printf '%s\n' 'aea20243d29b1b5940b1a071180d8a1d44fdba4d852305237f562d1dfe00ceac  paper/IEEEtran.cls' | sha256sum --check
-/workspace/platonic-env/venv/bin/python -m pytest study/test_simulator.py -q
+/workspace/platonic-env/venv/bin/python -m pytest study analysis -q --junitxml=results/tests.xml

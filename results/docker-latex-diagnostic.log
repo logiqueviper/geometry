@@ -1,0 +1,38 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (TeX Live 2022/Debian) (preloaded format=pdflatex)
+ restricted \write18 enabled.
+entering extended mode
+(./paper.tex
+LaTeX2e <2022-11-01> patch level 1
+L3 programming layer <2023-01-16> (./IEEEtran.cls
+Document Class: IEEEtran 2014/09/17 V1.8a by Michael Shell
+-- See the "IEEEtran_HOWTO" manual for usage information.
+-- http://www.michaelshell.org/tex/ieeetran/
+(/usr/share/texlive/texmf-dist/tex/latex/psnfss/ot1ptm.fd)
+kpathsea: Running mktextfm ptmr7t
+/usr/share/texlive/texmf-dist/web2c/mktexnam: Could not map source abbreviation  for ptmr7t.
+/usr/share/texlive/texmf-dist/web2c/mktexnam: Need to update ?
+mktextfm: Running mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr7t
+This is METAFONT, Version 2.71828182 (TeX Live 2022/Debian) (preloaded base=mf)
+
+kpathsea: Running mktexmf ptmr7t
+
+! I can't find file `ptmr7t'.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr7t
+                                                  
+Please type another input file name
+! Emergency stop.
+<*> ...ljfour; mag:=1; ; nonstopmode; input ptmr7t
+                                                  
+Transcript written on mfput.log.
+grep: ptmr7t.log: No such file or directory
+mktextfm: `mf-nowin -progname=mf \mode:=ljfour; mag:=1; ; nonstopmode; input ptmr7t' failed to make ptmr7t.tfm.
+kpathsea: Appending font creation commands to missfont.log.
+
+! Font OT1/ptm/m/n/10=ptmr7t at 10.0pt not loadable: Metric (TFM) file not foun
+d.
+<to be read again> 
+                   relax 
+l.458 \normalfont
+                 \selectfont
+!  ==> Fatal error occurred, no output PDF file produced!
+Transcript written on paper.log.

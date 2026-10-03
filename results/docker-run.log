@@ -1,0 +1,27 @@
+python -m pytest study analysis -q --junitxml=results/tests.xml
+........................................................................ [ 45%]
+........................................................................ [ 90%]
+................                                                         [100%]
+---------- generated xml file: /workspace/geometry/results/tests.xml -----------
+160 passed in 9.27s
+python -m study.verify_results
+{
+  "raw_runs_checked": 16050,
+  "selected_full_output_replays": 141,
+  "all_tasks_executed_and_collected": true,
+  "all_required_primary_and_topology_cells_present": true
+}
+python -m study.analyze
+Analyzed 16050 runs; created 8 figure pairs and tables.
+Neighbor push has the lowest mean in 1/20 variable-cost cells (descriptive, not significance tests).
+python -m analysis.make_all
+Saved 50 retrospective paired comparisons with Holm adjustment; none labeled preregistered.
+Created 13 PDF/PNG/SVG figure sets and an offline visual atlas.
+Built /workspace/geometry/visualizations/dashboard.html: 690418 bytes; no runtime network dependency.
+Saved 5820 manuscript values and raw source hashes.
+python -m analysis.report_numbers
+Saved 5820 manuscript values and raw source hashes.
+python -m study.build_paper
+Compiled /workspace/geometry/paper/paper.pdf (346376 bytes)
+python -m study.package
+Verified /workspace/geometry/platonic-study.zip: 134 files, 7121888 bytes

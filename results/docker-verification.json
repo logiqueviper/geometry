@@ -1,0 +1,38 @@
+{
+  "image": {
+    "id": "sha256:1e708b071995c213a66bf3db2af00a5068d3299ba90d468f6f945e75f59f792e",
+    "os": "linux",
+    "architecture": "amd64"
+  },
+  "build": "passed",
+  "offline_make_all": "passed",
+  "runtime_network": "disabled",
+  "tests_passed": 160,
+  "raw_runs_checked": 16050,
+  "replayed_cases": 141,
+  "code_and_data_match_checkout": {
+    "analysis/report_numbers.py": "3bc7b33ea25e32b876cb58e74eb5e13918c8869275a312057dd8d6503bbc485a",
+    "analysis/visualize.py": "cd5b3edcd90529dfba7f8648baf0cc9d72a76719dd4b159ec42f6ba7df57726f",
+    "study/simulator.py": "2df5e9b127fecb46eb27921d705ad92dd5931b99cf3cefed895bdc793cd2ca70",
+    "study/geometry.py": "c023d9d7e02aba6d0cf998eaae5f8cbd7c3e677ca786c75c7c5d4c6757c6a4e0",
+    "Makefile": "fd8e60410b4d710a01bfcbd3b935e7d09f464316c68bdbb4aa03ea074924e7b8",
+    "Dockerfile": "1a34fea2e2d6d689be5a1f89e415b411c4f7daa501abfd194dea905d4b60f593",
+    "requirements-study.txt": "d9a0742553d42ed9810e4562ef6b5e20d012022066b9dcc7cbd8ec1a65caeae3",
+    "results/raw.csv": "f7091594e6761b08fbb95bef756c339db688a7b66311a8a0a838058adc4757ed",
+    "results/topology.csv": "16e5d0e6568b4e691a174d04672939e5fc81de1befb9c4ff6edb4763fddd158e"
+  },
+  "base_image_digest": "sha256:392307d22300de8b5986851a12d9176dfc0fc073e65bf6523ebd7dcbeb23564e",
+  "tls_and_apt_signature_verification": "enabled",
+  "cloud_build_requirements": [
+    "existing proxy build arguments",
+    "proxy hostname resolution",
+    "trusted system CA bundle supplied via BuildKit secret"
+  ],
+  "earlier_failures_resolved": [
+    "Docker client cache path was read-only",
+    "proxy DNS in Docker",
+    "missing proxy trust bundle",
+    "missing Times font/LaTeX recommended packages"
+  ],
+  "scope": "container reproduction of simulation artifacts; no physical-cluster validation"
+}

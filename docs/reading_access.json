@@ -1,0 +1,65 @@
+[
+  {
+    "doi": "10.1016/0743-7315(89)90021-x",
+    "url": "https://doi.org/10.1016/0743-7315(89)90021-x",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1002/cpe.4330020403",
+    "url": "https://doi.org/10.1002/cpe.4330020403",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1006/jcss.1996.0075",
+    "url": "https://doi.org/10.1006/jcss.1996.0075",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1109/88.532137",
+    "url": "https://doi.org/10.1109/88.532137",
+    "final_url": "https://ieeexplore.ieee.org/document/532137/",
+    "status": 202,
+    "type": "text/html; charset=UTF-8",
+    "bytes": 0,
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1016/s0167-8191(99)00002-2",
+    "url": "https://doi.org/10.1016/s0167-8191(99)00002-2",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1145/1654059.1654113",
+    "url": "https://doi.org/10.1145/1654059.1654113",
+    "error": "HTTP Error 403: Forbidden",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1145/2038037.1941582",
+    "url": "https://doi.org/10.1145/2038037.1941582",
+    "error": "HTTP Error 403: Forbidden",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1016/j.jpdc.2021.03.010",
+    "url": "https://doi.org/10.1016/j.jpdc.2021.03.010",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1016/j.tcs.2021.09.026",
+    "url": "https://doi.org/10.1016/j.tcs.2021.09.026",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "doi": "10.1016/j.parco.2023.103020",
+    "url": "https://doi.org/10.1016/j.parco.2023.103020",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  }
+]

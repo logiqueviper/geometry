@@ -1,0 +1,20 @@
+[
+  {
+    "name": "cybenko",
+    "url": "https://www.dartmouth.edu/~gvc/Cybenko_JPDP.pdf",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "name": "loh",
+    "url": "https://switzernet.com/people/emin-gabrielyan/060708-thesis-ref/papers/Loh96.pdf",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  },
+  {
+    "name": "gast",
+    "url": "https://inria.hal.science/hal-03356234v1/document",
+    "error": "<urlopen error Tunnel connection failed: 403 Forbidden>",
+    "full_text_read": false
+  }
+]

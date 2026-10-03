@@ -5,3 +5,7 @@ paper/*.aux
 paper/*.out
 paper/*.log
 results/setup.log
+# Retrieval caches can contain publisher text/abstracts; publish facts and hashes.
+docs/source-records/
+hardware/raw/
+results/tests.xml

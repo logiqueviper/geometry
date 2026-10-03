@@ -1,0 +1,21 @@
+{
+  "engine": "Chromium via local CDP",
+  "checks": [
+    "All 210 default observations rendered",
+    "Default topology and independent-cost workload",
+    "Twelve workers and master in geometry",
+    "Topology and workload controls redraw every observation",
+    "Displayed interval matches saved source",
+    "Traffic metric and accessible table work",
+    "Equal-cost null result retained",
+    "Rotation changes the projected geometry",
+    "Mobile layout has no page-level horizontal overflow",
+    "No JavaScript runtime exceptions"
+  ],
+  "passed": 10,
+  "screenshots": [
+    "visualizations/dashboard-desktop.png",
+    "visualizations/dashboard-mobile.png"
+  ],
+  "runtime_external_dependencies": 0
+}
